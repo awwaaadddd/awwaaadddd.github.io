@@ -17,7 +17,7 @@ Fig. 1. *A Flower is a Flower is a Flag* (left - https://www.palestineposterproj
 
 | Title | A Flower is a Flower is a Flag | Flower of Palestine |
 | ----- | ----------------------- | ------------------------------ |
-| Adnan Al Zubaidy               | Andrew Lumban Gaol |
+| **Creator** |Adnan Al Zubaidy   | Andrew Lumban Gaol |
 
 
 
