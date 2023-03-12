@@ -15,8 +15,8 @@ Below, in **Figure 1**, are two images of similar posters discussing conflict wi
 <img src="/assets/{posters}.png" style="zoom:50%"/>
 Fig. 1. *A Rose is a Rose is a Flag* (left - https://www.palestineposterproject.org/poster/a-flower-is-a-flower-is-the-flag) & *Flower of Palestine* (right - https://www.palestineposterproject.org/poster/flower-of-palestine) Posters
 
-|***Title***|*A Flower is a Flower is a Flag*|*Flower of Palestine*|
----
+|***Title***|   *A Flower is a Flower is a Flag*   |   *Flower of Palestine*   |
+|---|---|
 |***Creator***|
 
 
