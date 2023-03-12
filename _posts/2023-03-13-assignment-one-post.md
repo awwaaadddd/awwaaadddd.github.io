@@ -17,7 +17,7 @@ Below, in **Figure 1**, are two images of similar posters discussing conflict wi
 Fig. 1. *A Flower is a Flower is a Flag* (left - https://www.palestineposterproject.org/poster/a-flower-is-a-flower-is-the-flag) & *Flower of Palestine* (right - https://www.palestineposterproject.org/poster/flower-of-palestine) Posters
 
 
-Fig. 2. Metadata from *The Digital Library of the Middle East*
+**Metadata from *The Digital Library of the Middle East**
 | Title | A Flower is a Flower is a Flag | Flower of Palestine |
 | ----- | ----------------------- | ------------------------------ |
 | **Creator** |Adnan Al Zubaidy   | Andrew Lumban Gaol |
