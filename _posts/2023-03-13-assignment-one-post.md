@@ -1,9 +1,9 @@
 ---
-title:
-layout:
+title: DLME Assignment 1
+layout: textlay
 excerpt:
 sitemap:
-permalink:
+permalink: /2023-03-13-assignment-one-post.md/
 ---
 
 Everything around us contains some sort of data, whether it’s documented or not. An action, a series of events or words are all examples of data. This brings forward the discussion of what is computable data and what is not. It entertains the idea that data is there only to convey a message, to host information, or even to tell a story. All the mentioned instances that come with data are recorded whether it’s through a dataset, a computer machine, or our minds. Once something is recorded on a computer, especially on the internet, it usually has some sort of metadata. Metadata is a term used to refer to pieces of information that can be used to easily track down information online. Metadata is often bluntly mentioned on websites that showcase artifacts or art, and it can even be found through sly codes and search files. One example would be *The Digital Library of The Middle East (DLME)*. *The DLME* houses over 100,000 objects within dozens of collections found across multiple museums around the world.
