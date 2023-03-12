@@ -13,12 +13,11 @@ The resources found on the *DLME* website can be extremely useful for many diffe
 Below, in **Figure 1**, are two images of similar posters discussing conflict within the Palestinian land and community originally displayed/housed on the *Palestine Poster Project (PPP)* website. As both of them originate from the same website and project, their imported metadata into The DLME is of a similar nature and format. **Figure 2 (Table)** below showcases the metadata in the categorized fashion they are present in *The DLME*. **Figure 3 (Table)** further down showcases the metadata on the PPP’s website. The chosen images (posters) are unique in the messages they hold/present and their artistic style, however, as mentioned above, it’s expected for them both to have really similar metadata given their similar origins.
 	
 <img src="/assets/{posters}.png" style="zoom:50%"/>
-Fig. 1. *A Rose is a Rose is a Flag* (left - https://www.palestineposterproject.org/poster/a-flower-is-a-flower-is-the-flag) & *Flower of Palestine* (right - https://www.palestineposterproject.org/poster/flower-of-palestine) Posters
+Fig. 1. *A Flower is a Flower is a Flag* (left - https://www.palestineposterproject.org/poster/a-flower-is-a-flower-is-the-flag) & *Flower of Palestine* (right - https://www.palestineposterproject.org/poster/flower-of-palestine) Posters
 
----
-Title: *A Flower is a Flower is a Flag*      *Flower of Palestine*   
-Creator:
----
+| A Flower is a Flower is a Flag | Flower of Palestine |
+| ------------------------------ | ------------------------------ |
+| Adnan Al Zubaidy               | Andrew Lumban Gaol |
 
 
 
