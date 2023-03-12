@@ -15,5 +15,17 @@ Below, in **Figure 1**, are two images of similar posters discussing conflict wi
 <img src="/assets/{posters}.png" style="zoom:50%"/>
 Fig. 1. *A Rose is a Rose is a Flag* (left - https://www.palestineposterproject.org/poster/a-flower-is-a-flower-is-the-flag) & *Flower of Palestine* (right - https://www.palestineposterproject.org/poster/flower-of-palestine) Posters
 
+|***Title***|*A Flower is a Flower is a Flag*|*Flower of Palestine*|
+---
+|***Creator***|
+
+
+
+
+
+
+
+
 The metadata showcased in **Figure 2** seems to be very surface level and uninformative. It generally tells us very basic information about the painting. The only categories that can be excluded from this are ‘title’, ‘creator’, and ‘description’. These three categories provide unique information about the specific pieces themselves instead of hinting at a bigger collection of work. Unlike the ‘type (broader)’, ‘type (narrower)’, and ‘subject’ categories that serve no major significance in filtering out the targeted posters within a sea of other posters, the ‘holding institution’ and ‘data provider’ categories actually lead the search closer towards the collection specific to the PPP. Although still challenging and limiting, it still provides room for greater discoverability. Since both ‘holding institution’ and ‘data provider’ state “Palestine Poster Project Archive”, searching that alone would inevitably lead to the *PPP* website and make locating the posters through the website itself way easier.
 The metadata collected from *The DLME* feels incomplete, especially the description of the posters as they just reiterate the creator’s name and year of creation. The description slot would ideally possess keywords that would allude to the object/image itself. On the other hand, the metadata collected from the PPP (the original host of the posters) feels a bit more closer to the target object/item with more descriptive/telling categories as well as embedded links to more information, like the creator’s personal website. The categories present on the *PPP* website vary in clarity within the discoverability of the posters themselves, and some of them are ‘language’, ‘published in’, ‘iconography’, and ‘related links’. These more obscure categories allow for niche searches and a greater possibility for discoverability regardless of the combination of metadata used to locate the origin of the item (posters).
+
