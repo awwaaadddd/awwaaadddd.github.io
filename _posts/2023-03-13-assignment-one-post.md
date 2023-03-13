@@ -28,9 +28,11 @@ Fig. 1. *A Flower is a Flower is a Flag* (left - https://www.palestineposterproj
 | **Creator** |Adnan Al Zubaidy   | Andrew Lumban Gaol |
 | **Date** | 1990 | 2013 |
 | **Description** | Adnan Al Zubaidy (1951-2007) - 1990 | Andrew Lumban Gaol - 2013 |
-| **Type (Narrower)** |  Poster    ||                                                  \
-| **Type (Broader)** | Image ||         \
+| **Type (Narrower)** |  Poster    ||                                                  |
+| **Type (Broader)** | Image ||         |
 | **Subject** | Posters || |
+| **Holding Institution** | Palestine Poster Project Archive |
+| **Data Provider** | Palestine Poster Project Archive |
 
 
 
