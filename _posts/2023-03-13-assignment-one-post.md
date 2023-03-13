@@ -28,12 +28,12 @@ Fig. 1. *A Flower is a Flower is a Flag* (left - https://www.palestineposterproj
 | **Creator** |Adnan Al Zubaidy   | Andrew Lumban Gaol |
 | **Date** | 1990 | 2013 |
 | **Description** | Adnan Al Zubaidy (1951-2007) - 1990 | Andrew Lumban Gaol - 2013 |
-| **Type (Narrower)** |  Poster    ||                                                  |
+| **Type (Narrower)** |  Poster    ||                            Poster                      |
 | **Type (Broader)** | Image ||         |
 | **Subject** | Posters || |
 | **Holding Institution** | Palestine Poster Project Archive |
 | **Data Provider** | Palestine Poster Project Archive |
-| **Rights** | The PPPA operates according to the principles of 'fair use'. According to fair use principles, an author may make limited use of another author's work without asking for permission. Fair use is based on the belief that the public is entitled to freely use portions of copyrighted materials for non-commercial educational purposes, commentary and criticism. For full rights policy, see: https://www.palestineposterproject.org/content/faq |
+| **Rights** | The PPPA operates according to the principles of 'fair use'. According to fair use principles, an author may make limited use of another author's work without asking for permission. Fair use is based on the belief that the public is entitled to freely use portions of copyrighted materials for non-commercial educational purposes, commentary and criticism. For full rights policy, see: https://www.palestineposterproject.org/content/faq || |
 
 
 
