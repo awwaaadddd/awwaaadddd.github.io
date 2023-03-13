@@ -15,7 +15,9 @@ The resources found on the *DLME* website can be extremely useful for many diffe
 
 
 Below, in **Figure 1**, are two images of similar posters discussing conflict within the Palestinian land and community originally displayed/housed on the *Palestine Poster Project (PPP)* website. As both of them originate from the same website and project, their imported metadata into The DLME is of a similar nature and format. **Figure 2 (Table)** below showcases the metadata in the categorized fashion they are present in *The DLME*. **Figure 3 (Table)** further down showcases the metadata on the PPP’s website. The chosen images (posters) are unique in the messages they hold/present and their artistic style, however, as mentioned above, it’s expected for them both to have really similar metadata given their similar origins.
-	
+
+
+
 <img src="/assets/{posters}.png" style="zoom:50%"/>
 Fig. 1. *A Flower is a Flower is a Flag* (left - https://www.palestineposterproject.org/poster/a-flower-is-a-flower-is-the-flag) & *Flower of Palestine* (right - https://www.palestineposterproject.org/poster/flower-of-palestine) Posters
 
@@ -23,17 +25,17 @@ Fig. 1. *A Flower is a Flower is a Flag* (left - https://www.palestineposterproj
 # 2. **Metadata from *The Digital Library of the Middle East***
 
 
-| Title | A Flower is a Flower is a Flag | Flower of Palestine |
+| Title: | A Flower is a Flower is a Flag | Flower of Palestine |
 | ----- | ----------------------- | ------------------------------ |
-| **Creator** |Adnan Al Zubaidy   | Andrew Lumban Gaol |
-| **Date** | 1990 | 2013 |
-| **Description** | Adnan Al Zubaidy (1951-2007) - 1990 | Andrew Lumban Gaol - 2013 |
-| **Type (Narrower)** | Poster | Poster |
-| **Type (Broader)** | Image | Image |
-| **Subject** | Posters | Posters |
-| **Holding Institution** | Palestine Poster Project Archive | Palestine Poster Project Archive |
-| **Data Provider** | Palestine Poster Project Archive | Palestine Poster Project Archive |
-| **Rights** | The PPPA operates according to the principles of 'fair use'. According to fair use principles, an author may make limited use of another author's work without asking for permission. Fair use is based on the belief that the public is entitled to freely use portions of copyrighted materials for non-commercial educational purposes, commentary and criticism. For full rights policy, see: https://www.palestineposterproject.org/content/faq | The PPPA operates according to the principles of 'fair use'. According to fair use principles, an author may make limited use of another author's work without asking for permission. Fair use is based on the belief that the public is entitled to freely use portions of copyrighted materials for non-commercial educational purposes, commentary and criticism. For full rights policy, see: https://www.palestineposterproject.org/content/faq |
+| **Creator:** |Adnan Al Zubaidy   | Andrew Lumban Gaol |
+| **Date:** | 1990 | 2013 |
+| **Description:** | Adnan Al Zubaidy (1951-2007) - 1990 | Andrew Lumban Gaol - 2013 |
+| **Type (Narrower):** | Poster | Poster |
+| **Type (Broader):** | Image | Image |
+| **Subject:** | Posters | Posters |
+| **Holding Institution:** | Palestine Poster Project Archive | Palestine Poster Project Archive |
+| **Data Provider:** | Palestine Poster Project Archive | Palestine Poster Project Archive |
+| **Rights:** | The PPPA operates according to the principles of 'fair use'. According to fair use principles, an author may make limited use of another author's work without asking for permission. Fair use is based on the belief that the public is entitled to freely use portions of copyrighted materials for non-commercial educational purposes, commentary and criticism. For full rights policy, see: https://www.palestineposterproject.org/content/faq | The PPPA operates according to the principles of 'fair use'. According to fair use principles, an author may make limited use of another author's work without asking for permission. Fair use is based on the belief that the public is entitled to freely use portions of copyrighted materials for non-commercial educational purposes, commentary and criticism. For full rights policy, see: https://www.palestineposterproject.org/content/faq |
 
 **Fig. 2. Posters' DLME Metadata** (https://dlmenetwork.org/library/catalog/https:%2F%2Fwww.palestineposterproject.org%2Fposter%2Fa-flower-is-a-flower-is-the-flag & https://dlmenetwork.org/library/catalog/https:%2F%2Fwww.palestineposterproject.org%2Fposter%2Fflower-of-palestine)
 
@@ -45,17 +47,20 @@ The metadata collected from *The DLME* feels incomplete, especially the descript
 # 3. **Metadata from *The Palestine Poster Project***
 
 
-| Title | A Flower is a Flower is a Flag | Flower of Palestine |
+| Title: | A Flower is a Flower is a Flag | Flower of Palestine |
 | ----- | ----------------------- | ------------------------------ |
-| **Creator** |Adnan Al Zubaidy   | Andrew Lumban Gaol |
-| **Date** | 1990 | 2013 |
-| **Description** | Adnan Al Zubaidy (1951-2007) - 1990 | Andrew Lumban Gaol - 2013 |
-| **Type (Narrower)** | Poster | Poster |
-| **Type (Broader)** | Image | Image |
-| **Subject** | Posters | Posters |
-| **Holding Institution** | Palestine Poster Project Archive | Palestine Poster Project Archive |
-| **Data Provider** | Palestine Poster Project Archive | Palestine Poster Project Archive |
-| **Rights** | The PPPA operates according to the principles of 'fair use'. According to fair use principles, an author may make limited use of another author's work without asking for permission. Fair use is based on the belief that the public is entitled to freely use portions of copyrighted materials for non-commercial educational purposes, commentary and criticism. For full rights policy, see: https://www.palestineposterproject.org/content/faq | The PPPA operates according to the principles of 'fair use'. According to fair use principles, an author may make limited use of another author's work without asking for permission. Fair use is based on the belief that the public is entitled to freely use portions of copyrighted materials for non-commercial educational purposes, commentary and criticism. For full rights policy, see: https://www.palestineposterproject.org/content/faq |
+| **Artist/Designer/Photographer:** |Adnan Al Zubaidy (1951-2007) | Andrew Lumban Gaol |
+| **Language:** | Arabic | English |
+| **Date:** | 1990 | Circa 2013|
+| **Publisher:** | Popular Front for the Liberation in Palestine (PFLP) | Self-published by artist(s) |
+| **Published in:** | - | Indonesia |
+| **Source/Credit/Provenance:** | Purchased by Liberation Graphics | Sent in by artist |
+| **Status/Acquisition Goals:** |  |The PPPA has only a digital version of this poster |
+| **Number of Duplicates:** | 0 | 0 |
+| **Related Links:** | Wikipedia essay on the Popular Front for the Liberation of Palestine, Website of the PFLP | Andrew Lumban Gaol's website |
+| **Wellspring:** | Palestinian Natonalist Artists/Agencies | International Artists/Agencies |
+| **Iconography:** | Flowers/Fruit/Plants |Dove, Flowers/Fruit/Plants, Palestinian flag/Colors, Weapons/Bombs/Armaments/Guns |
+| **Special Collection:** | Adnan Al Zu-baidy, Popular Front for the Liberation of Palestine (PFLP) |Posters Requested, Para/Military/Personnel/Insignia/Uniform/Equipment |
 
 
 
