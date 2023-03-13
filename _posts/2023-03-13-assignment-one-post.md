@@ -46,7 +46,7 @@ The metadata collected from *The DLME* feels incomplete, especially the descript
 
 
 | Title | A Flower is a Flower is a Flag | Flower of Palestine |
-| ----- | ----------------------- | ------------------------------ |
+|  | ----------------------- | ------------------------------ |
 | **Creator** |Adnan Al Zubaidy   | Andrew Lumban Gaol |
 | **Date** | 1990 | 2013 |
 | **Description** | Adnan Al Zubaidy (1951-2007) - 1990 | Andrew Lumban Gaol - 2013 |
@@ -60,8 +60,6 @@ The metadata collected from *The DLME* feels incomplete, especially the descript
 
 
 
-
-
-On the other hand, the metadata collected from the PPP (the original host of the posters) feels a bit more closer to the target object/item with more descriptive/telling categories as well as embedded links to more information, like the creator’s personal website. The categories present on the *PPP* website vary in clarity within the discoverability of the posters themselves, and some of them are ‘language’, ‘published in’, ‘iconography’, and ‘related links’. These more obscure categories allow for niche searches and a greater possibility for discoverability regardless of the combination of metadata used to locate the origin of the item (posters).
+On another note, the metadata collected from the *PPP* (the original host of the posters) feels a bit more closer to the target object/item with more descriptive/telling categories as well as embedded links to more information, like the creator’s personal website. The categories present on the *PPP* website vary in clarity within the discoverability of the posters themselves, and some of them are ‘language’, ‘published in’, ‘iconography’, and ‘related links’. These more obscure categories allow for niche searches and a greater possibility for discoverability regardless of the combination of metadata used to locate the origin of the item (posters).
 
 
