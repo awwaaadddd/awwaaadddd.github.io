@@ -16,9 +16,7 @@ Below, in **Figure 1**, are two images of similar posters discussing conflict wi
 <img src="/assets/posters.png" style="zoom:50%"/>
 Fig. 1. *A Flower is a Flower is a Flag* (left - https://www.palestineposterproject.org/poster/a-flower-is-a-flower-is-the-flag) & *Flower of Palestine* (right - https://www.palestineposterproject.org/poster/flower-of-palestine) Posters
 
-
-
-# 2. **Metadata from *The Digital Library of the Middle East***
+# 2. **Metadata from *The Digital Library of the Middle East*:**
 | Title: | A Flower is a Flower is a Flag | Flower of Palestine |
 | ----- | ----------------------- | ------------------------------ |
 | **Creator:** |Adnan Al Zubaidy   | Andrew Lumban Gaol |
@@ -31,7 +29,7 @@ Fig. 1. *A Flower is a Flower is a Flag* (left - https://www.palestineposterproj
 | **Data Provider:** | Palestine Poster Project Archive | Palestine Poster Project Archive |
 | **Rights:** | The PPPA operates according to the principles of 'fair use'. According to fair use principles, an author may make limited use of another author's work without asking for permission. Fair use is based on the belief that the public is entitled to freely use portions of copyrighted materials for non-commercial educational purposes, commentary and criticism. For full rights policy, see: https://www.palestineposterproject.org/content/faq | The PPPA operates according to the principles of 'fair use'. According to fair use principles, an author may make limited use of another author's work without asking for permission. Fair use is based on the belief that the public is entitled to freely use portions of copyrighted materials for non-commercial educational purposes, commentary and criticism. For full rights policy, see: https://www.palestineposterproject.org/content/faq 
 
-**Fig. 2. Posters' *DLME* Metadata:** (**a.** *A Flower is a Flower is a Flag* - https://dlmenetwork.org/library/catalog/https:%2F%2Fwww.palestineposterproject.org%2Fposter%2Fa-flower-is-a-flower-is-the-flag & **b.** *Flower of Palestine* - https://dlmenetwork.org/library/catalog/https:%2F%2Fwww.palestineposterproject.org%2Fposter%2Fflower-of-palestine)
+**Fig. 2. Posters' *DLME* Metadata** (**a.** *A Flower is a Flower is a Flag* - https://dlmenetwork.org/library/catalog/https:%2F%2Fwww.palestineposterproject.org%2Fposter%2Fa-flower-is-a-flower-is-the-flag & **b.** *Flower of Palestine* - https://dlmenetwork.org/library/catalog/https:%2F%2Fwww.palestineposterproject.org%2Fposter%2Fflower-of-palestine)
 
 
 The metadata showcased in **Figure 2** seems to be very surface level and uninformative. It generally tells us very basic information about the painting. The only categories that can be excluded from this are ‘title’, ‘creator’, and ‘description’. These three categories provide unique information about the specific pieces themselves instead of hinting at a bigger collection of work. Unlike the ‘type (broader)’, ‘type (narrower)’, and ‘subject’ categories that serve no major significance in filtering out the targeted posters within a sea of other posters, the ‘holding institution’ and ‘data provider’ categories actually lead the search closer towards the collection specific to the PPP. Although still challenging and limiting, it still provides room for greater discoverability. Since both ‘holding institution’ and ‘data provider’ state “Palestine Poster Project Archive”, searching that alone would inevitably lead to the *PPP* website and make locating the posters through the website itself way easier.
@@ -60,4 +58,5 @@ The metadata collected from *The DLME* feels incomplete, especially the descript
 
 On another note, the metadata collected from the *PPP* (the original host of the posters) feels a bit more closer to the target object/item with more descriptive/telling categories as well as embedded links to more information, like the creator’s personal website. The categories present on the *PPP* website vary in clarity within the discoverability of the posters themselves, and some of them are ‘language’, ‘published in’, ‘iconography’, and ‘related links’. These more obscure categories allow for niche searches and a greater possibility for discoverability (search results) regardless of the combination of metadata used to locate the origin of the item (posters).
 
-# 4. Comparision Between *The DLME* and *PPP* Metada:
+# 4. Comparision Between *The DLME* and *PPP* Metadata:
+Both online data libraries include enough bits of data that would allow for more specific results, however, when both compared, the the *PPP* clearly has more bits of metadat than *The DLME*. It offers more unique metada that definitely filters the possible search results on a bigger scale and narrows the results down.
