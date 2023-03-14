@@ -23,8 +23,6 @@ Fig. 1. *A Flower is a Flower is a Flag* (left - https://www.palestineposterproj
 
 
 # 2. **Metadata from *The Digital Library of the Middle East***
-
-
 | Title: | A Flower is a Flower is a Flag | Flower of Palestine |
 | ----- | ----------------------- | ------------------------------ |
 | **Creator:** |Adnan Al Zubaidy   | Andrew Lumban Gaol |
@@ -36,6 +34,7 @@ Fig. 1. *A Flower is a Flower is a Flag* (left - https://www.palestineposterproj
 | **Holding Institution:** | Palestine Poster Project Archive | Palestine Poster Project Archive |
 | **Data Provider:** | Palestine Poster Project Archive | Palestine Poster Project Archive |
 | **Rights:** | The PPPA operates according to the principles of 'fair use'. According to fair use principles, an author may make limited use of another author's work without asking for permission. Fair use is based on the belief that the public is entitled to freely use portions of copyrighted materials for non-commercial educational purposes, commentary and criticism. For full rights policy, see: https://www.palestineposterproject.org/content/faq | The PPPA operates according to the principles of 'fair use'. According to fair use principles, an author may make limited use of another author's work without asking for permission. Fair use is based on the belief that the public is entitled to freely use portions of copyrighted materials for non-commercial educational purposes, commentary and criticism. For full rights policy, see: https://www.palestineposterproject.org/content/faq 
+
 **Fig. 2. Posters' DLME Metadata** (https://dlmenetwork.org/library/catalog/https:%2F%2Fwww.palestineposterproject.org%2Fposter%2Fa-flower-is-a-flower-is-the-flag & https://dlmenetwork.org/library/catalog/https:%2F%2Fwww.palestineposterproject.org%2Fposter%2Fflower-of-palestine)
 
 
