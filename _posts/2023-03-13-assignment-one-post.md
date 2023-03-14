@@ -1,6 +1,6 @@
 ---
 Title: DLME Assignment 1
-Layout: textlay
+Layout: post
 Excerpt: "DLME Metadata Assignment"
 Sitemap: false
 Permalink: /2023-03-13-assignment-one-post.md/
@@ -18,7 +18,7 @@ Below, in **Figure 1**, are two images of similar posters discussing conflict wi
 
 
 
-<img src="/assets/{posters}.png" style="zoom:50%"/>
+<img src="/assets/posters.png" style="zoom:50%"/>
 
 
 Fig. 1. *A Flower is a Flower is a Flag* (left - https://www.palestineposterproject.org/poster/a-flower-is-a-flower-is-the-flag) & *Flower of Palestine* (right - https://www.palestineposterproject.org/poster/flower-of-palestine) Posters
@@ -46,7 +46,7 @@ The metadata showcased in **Figure 2** seems to be very surface level and uninfo
 The metadata collected from *The DLME* feels incomplete, especially the description of the posters as they just reiterate the creator’s name and year of creation. The description slot would ideally possess keywords that would allude to the object/image itself.
 
 
-# 3. **Metadata from *The Palestine Poster Project***
+# 3. **Metadata from *The Palestine Poster Project*** [^1]
 
 
 | Title: | A Flower is a Flower is a Flag | Flower of Palestine |
@@ -55,7 +55,7 @@ The metadata collected from *The DLME* feels incomplete, especially the descript
 | **Language:** | Arabic | English |
 | **Date:** | 1990 | Circa 2013|
 | **Publisher:** | Popular Front for the Liberation in Palestine (PFLP) | Self-published by artist(s) |
-| **Published in:** | - | Indonesia |
+| **Published in:** | N/A | Indonesia |
 | **Source/Credit/Provenance:** | Purchased by Liberation Graphics | Sent in by artist |
 | **Status/Acquisition Goals:** |  |The PPPA has only a digital version of this poster |
 | **Number of Duplicates:** | 0 | 0 |
@@ -64,7 +64,7 @@ The metadata collected from *The DLME* feels incomplete, especially the descript
 | **Iconography:** | Flowers/Fruit/Plants |Dove, Flowers/Fruit/Plants, Palestinian flag/Colors, Weapons/Bombs/Armaments/Guns |
 | **Special Collection:** | Adnan Al Zu-baidy, Popular Front for the Liberation of Palestine (PFLP) |Posters Requested, Para/Military/Personnel/Insignia/Uniform/Equipment |
 
-
+[^1]: Each bit of metadata on the above table from the *PPP* has an embedded link to direct the viewer towards a designated webpage with more data/information. It usually is a webpage within the *PPP* that showcases other posters that fit within the searched criteria.
 
 
 On another note, the metadata collected from the *PPP* (the original host of the posters) feels a bit more closer to the target object/item with more descriptive/telling categories as well as embedded links to more information, like the creator’s personal website. The categories present on the *PPP* website vary in clarity within the discoverability of the posters themselves, and some of them are ‘language’, ‘published in’, ‘iconography’, and ‘related links’. These more obscure categories allow for niche searches and a greater possibility for discoverability regardless of the combination of metadata used to locate the origin of the item (posters).
