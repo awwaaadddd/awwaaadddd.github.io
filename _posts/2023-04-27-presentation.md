@@ -1,12 +1,13 @@
 ---
 layout: slide
 title: Presentation Trial
-excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
+excerpt: A file showcasing my first presentation trial
 # theme: simple
 transition: convex
 tags: [presentation]
 category: presentation
 ---
+<link rel="stylesheet" href="dist/theme/beige.css">
 <section data-markdown>
   <textarea data-template>
     ## Reveal.js and Jekyll Academic
