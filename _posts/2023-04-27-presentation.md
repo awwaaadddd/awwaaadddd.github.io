@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: Presentation: 
+title: Presentation Trial
 excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
 # theme: simple
 transition: convex
