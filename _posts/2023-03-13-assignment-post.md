@@ -2,8 +2,9 @@
 Layout: post
 Title: "DLME Assignment 1"
 Excerpt: "DLME Metadata Assignment"
-Date: 2023-03-13
+Date: 2023-03-13 4:17:05
 Sitemap: false
+Category: blog
 Permalink: /2023-03-13-assignment-one-post.md/
 ---
 
