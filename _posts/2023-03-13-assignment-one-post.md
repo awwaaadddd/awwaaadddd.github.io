@@ -1,7 +1,6 @@
 ---
 Layout: post
-Title: "DLME Assignment 1"
-Excerpt: "DLME Metadata Assignment"
+Title: "DLME Assignment One"
 Date: 2023-03-13
 Sitemap: true
 Category: blog
