@@ -1,7 +1,8 @@
 ---
-Title: DLME Assignment 1
 Layout: post
+Title: "DLME Assignment 1"
 Excerpt: "DLME Metadata Assignment"
+Date: 2023-03-13
 Sitemap: false
 Permalink: /2023-03-13-assignment-one-post.md/
 ---
