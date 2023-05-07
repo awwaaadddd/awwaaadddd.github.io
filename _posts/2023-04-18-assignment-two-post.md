@@ -34,6 +34,7 @@ I personally had basic, surface-level, exposure to Arthur Conan Doyle and his wo
 
 The first set of tools that *Voyant Tools* handles are wordclouds, termsberries, and line graphs with relative trends. Other tools require manual searches through the webpage, and they aren't difficult to find at all.
 
+<img src="/assets/voyanttools1.png" style="zoom:50%"/>
 
 
 
