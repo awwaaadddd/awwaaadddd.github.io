@@ -29,6 +29,15 @@ Arthur Conan Doyle was born to British origins on the 22nd of May, 1859. He purs
 I personally had basic, surface-level, exposure to Arthur Conan Doyle and his work. I grew up watching Sherlock Holmes and then had a disconnect. My most recent exposure to this character, although limited, was through the *Enola Holmes* movies. My knowledge of this data set is limited to Holmes being a detective and Doyle being a writer. I had no past conception of him maintaining a medical career, and I had little to no ideas surrounding Doyle's other works of fiction and fantasy.
 
 ## 4. Analysis through Voyant Tools:
+*Voyant Tools* is an online-based reading and analysis that disects digital texts and corpora to gauge a better understanding of the overall themes and possible plot points via visual learning diagrams.
+ *Voyant Tools* presents numerous interfaces that texts can be analyzed through, like Corpus Tools (creating a word cloud), Document Tools, Visualization Tools, Grid Tools, and a variety of other tools that can summarize the numbers surrounding the text of the corpus.
+
+
+
+
+
+
+<img src="/assets/wordcloudv2.png" style="zoom:50%"/>
 
 
 
