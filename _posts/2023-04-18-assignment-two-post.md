@@ -33,7 +33,8 @@ I personally had basic, surface-level, exposure to Arthur Conan Doyle and his wo
  *Voyant Tools* presents numerous interfaces that texts can be analyzed through, like Corpus Tools (creating a wordcloud), Document Tools, Visualization Tools, Grid Tools, and a variety of other tools that can summarize the numbers surrounding the text of the corpus.
 
 The first set of tools that *Voyant Tools* handles are wordclouds, termsberries, and line graphs with relative trends. Other tools require manual searches through the webpage, and they aren't difficult to find at all.
-***Presented below are the wordcloud, termsberries, and line graphs of *My Friend the Murderer* through *Voyant Tools*:***
+
+###4.1 ***Presented below are the wordcloud, termsberries, and line graphs of *My Friend the Murderer* through *Voyant Tools*:***
 
 <img src="/assets/voyanttools1.png" style="zoom:50%"/>
 https://voyant-tools.org/?corpus=a675bb4d5cbce2bb83c2385d5c5a070a
