@@ -30,14 +30,13 @@ I personally had basic, surface-level, exposure to Arthur Conan Doyle and his wo
 
 ## 4. Analysis through Voyant Tools:
 *Voyant Tools* is an online-based reading and analysis that disects digital texts and corpora to gauge a better understanding of the overall themes and possible plot points via visual learning diagrams.
- *Voyant Tools* presents numerous interfaces that texts can be analyzed through, like Corpus Tools (creating a word cloud), Document Tools, Visualization Tools, Grid Tools, and a variety of other tools that can summarize the numbers surrounding the text of the corpus.
+ *Voyant Tools* presents numerous interfaces that texts can be analyzed through, like Corpus Tools (creating a wordcloud), Document Tools, Visualization Tools, Grid Tools, and a variety of other tools that can summarize the numbers surrounding the text of the corpus.
+
+The first set of tools that *Voyant Tools* handles are wordclouds, termsberries, and line graphs with relative trends. Other tools require manual searches through the webpage, and they aren't difficult to find at all.
 
 
 
 
-
-
-<img src="/assets/wordcloudv2.png" style="zoom:50%"/>
 
 
 
