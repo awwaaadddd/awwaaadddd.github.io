@@ -45,11 +45,11 @@ All of these 3 initial visualizations of the text briefly showcase the general c
 2. Similar to the word cloud, **the termberries** (in the middle) showcases the frequency of the words but in bubble form. The bigger the bubble, the more frequent the word is. However, the termberries tool also allows us to visualize the occurence of these words next to each other in the corpus. When you hover over a bubble, it showcases other bubbles in blue. This makes it clear that these words frequently appear together in the corpus.
 3. **The line graph** (on the far right) is used to horizontaly establish the relative frequencies of words across the corpus. It also helps by clearly  showcasing the frequencies across the corpus's timeline, from the start of it to its end.
 
-
-
 ### 4.2 Visualization Tools - Loom:
 
 ### 4.3 Grid Tools - Phrases:
+
+<img src="/assets/phrasestable.png" style="zoom:50%"/>
 
 ### 4.4 
 
