@@ -49,7 +49,7 @@ All of these 3 initial visualizations of the text briefly showcase the general c
 
 ### 4.3 Grid Tools - Phrases:
 
-<img src="/assets/phrasestable.png" style="zoom:50%"/>
+<img src="/assets/phrasestable.png" style="zoom:25%"/>
 
 ### 4.4 
 
