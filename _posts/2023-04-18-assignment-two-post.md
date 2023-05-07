@@ -18,7 +18,23 @@ When working with a corpus, prior basic knowledge to its contents deems signific
 For this blog entry (assignment #2), I persoanlly want to understand the significant dichotomy that arises from the interactions that AI programs have with archival data sets. AI is rapidly growing everyday, and knowing how that influences old archival sets and corpora is very interesting to me. I personally enjoy understanding whether this interaction is beneficial or not and to weight out the pros and cons to better tell whether AI is more disruptive than it is helpful.
 Another idea I wish to better grasp after this analysis is that if corpora always contain related data sets or not. As mentioned above, I'll focus on Doyle's *"My Friend the Murderer"*, however, I will not shy away from comparing it to other parts of the corpus if anything interesting or suspicous captures my attention.
 
+### 2.1 Why *My Friend the Murderer*?:
+
+
+
 ## 3. *"My Friend the Murderer"* and Doyle:
 Arthur Conan Doyle was born to British origins on the 22nd of May, 1859. He pursued a medical career as a physician and became a writier of ficiton, science fiction,, fantasy, and non fiction. One of Doyle's most notable pieces of work would be the invention of the fictional character of Sherlock Holmes. Holmes then went on to become one of the most famous and recognizable names in the literary world. The growth of Holmes as a character played a major role in expanding the fictional world and turning it into a cinematic one as well. The Sherlock Holmes character appeared in more than 40 movies, animated ones too. The franchise then delved deeper into the detective Holmes universe exploring character like his sister, Enola Holmes, in *Enola Holmes 1* and *Enola Holmes 2*.
 
+### 3.1 My Personal Prior Knowledge:
+I personally had basic, surface-level, exposure to Arthur Conan Doyle and his work. I grew up watching Sherlock Holmes and then had a disconnect. My most recent exposure to this character, although limited, was through the *Enola Holmes* movies. My knowledge of this data set is limited to Holmes being a detective and Doyle being a writer. I had no past conception of him maintaining a medical career, and I had little to no ideas surrounding Doyle's other works of fiction and fantasy.
+
 ## 4. Analysis through Voyant Tools:
+
+
+
+
+
+
+
+
+
