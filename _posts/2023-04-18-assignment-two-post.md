@@ -37,8 +37,7 @@ The first set of tools that *Voyant Tools* handles are wordclouds, termsberries,
 ### 4.1 ***Presented below are the wordcloud, termsberries, and line graphs of *My Friend the Murderer* through *Voyant Tools*:***
 
 <img src="/assets/voyanttools1.png" style="zoom:50%"/>
-**Fig.1 *My Friend the Murderer* Word Cloud, Termsberries, and Line Graphs from Voyant Tools**
-(https://voyant-tools.org/?corpus=a675bb4d5cbce2bb83c2385d5c5a070a)
+**[Fig.1 *My Friend the Murderer* Word Cloud, Termsberries, and Line Graphs from Voyant Tools]**(https://voyant-tools.org/?corpus=a675bb4d5cbce2bb83c2385d5c5a070a)
 
 All of these 3 initial visualizations of the text briefly showcase the general consistent composition of words used throughout the uploaded corpus.
 
