@@ -37,7 +37,7 @@ The first set of tools that *Voyant Tools* handles are wordclouds, termsberries,
 ### 4.1 ***Presented below are the wordcloud, termsberries, and line graphs of *My Friend the Murderer* through *Voyant Tools*:***
 
 <img src="/assets/voyanttools1.png" style="zoom:50%"/>
-**[Fig.1 *My Friend the Murderer* Word Cloud, Termsberries, and Line Graphs from Voyant Tools]** (https://voyant-tools.org/?corpus=a675bb4d5cbce2bb83c2385d5c5a070a)
+**Fig.1 *My Friend the Murderer* Word Cloud, Termsberries, and Line Graphs from Voyant Tools**
 
 All of these 3 initial visualizations of the text briefly showcase the general consistent composition of words used throughout the uploaded corpus.
 
@@ -51,8 +51,8 @@ All of these 3 initial visualizations of the text briefly showcase the general c
 The phrases tool under grid tools creates a table that organizes different phrases from the corpus that are repeated. It also counts the times each phrases was repeated and the number of words generally part of said phrase.
 This tool is useful when trying to identify the significance of any sentence throughout the entirety of the corpus' text.
 
-
 <img src="/assets/phrasestable.png" style="zoom:25%"/>
+**Fig.2 *My Friend the Murderer* Grid Tools - Phrases from Voyant Tools**
 
 ### 4.4 
 
