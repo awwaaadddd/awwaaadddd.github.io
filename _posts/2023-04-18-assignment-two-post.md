@@ -7,7 +7,7 @@ date: 2023-04-18
 permalink: /corpus-assignment/
 ---
 
-# An Analysis of *My Friend the Murderer* by Arthur Conan Doyle via Voyant Tools:
+# An Analysis of *My Friend the Murderer* by Arthur Conan Doyle using Voyant Tools:
 
 ## 1. Introduction (What is a Corpus?):
 The way data is contained around us can either make data analysis way easier or just more difficult and tedious. This mostly depends on the amount of data found and its quality. Data comes in a variety of fashions, like images, signals, videos, and most commonly, text. Huge chunks of text collected together are referred to as a corpus, basically a specific set of text that contains a significant amount of data and information about anything really.
