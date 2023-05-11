@@ -21,19 +21,19 @@ category: presentation
     The main idea it approaches is language, mainly dialects. Lots of dialects are inproperly docummented online that translation processes are almost always slightly off.
     ---
     ## Data:
-    Jekyll Academic includes everything that you need in order to make Reveal.js work. Copy this file and edit it to begin making your own slide deck.  
-    For more information about all of the options available in Reveal.js please the [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)
+    Most data for this project is collected from Intagram accounts of a different language and dialects.
+    Instagram account: **@goodbyeoldjumeira**
     ---
-    Techniques:
+   ## Techniques:
     
     ---
-    Aims:
+   ## Aims:
     
     ---
-    Values:
+   ## Values:
     
     ---
-    Workplan:
+   ## Workplan:
     
   </textarea>
 </section>
