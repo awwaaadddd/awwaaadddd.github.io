@@ -12,12 +12,13 @@ category: presentation
   <textarea data-template>
     ## Reveal.js and Jekyll Academic
     ---
-    # Creating an AI Program that Correctly Translates Captions using Text Analysis Tehcniques for Digital-Social Storytelling.
+    ## Creating an AI Program that Correctly Translates Captions using Text Analysis Tehcniques for Digital-Social Storytelling.
     Awad AlMehairi
     IM-UH-15111 Introduction to Digital Humanities
     ---
-    ## Works Anywhere
-    By creating presentations using Reveal.js and hosting them on your Jekyll Academic site you will have access to them anywhere. No need to worry about software compatibility, no need to sign in to email accounts on public machines. Simply load your website and select the presentation.
+    ## Scope:
+    This project focuses on tackeling incorrect social media captions and messages by forging together an AI system that detects inconsistent translations across social media platforms that communicate incoherent ideas.
+    The main idea it approaches is language, mainly dialects. Lots of dialects are inproperly docummented online that translation processes are almost always slightly off.
     ---
     ## More Information
     Jekyll Academic includes everything that you need in order to make Reveal.js work. Copy this file and edit it to begin making your own slide deck.  
