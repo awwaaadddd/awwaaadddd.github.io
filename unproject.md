@@ -1,6 +1,6 @@
 ---
 layout: unproject-post-index
-menutitle: Presentations
+menutitle: Unproject
 menuorder: 2
 excerpt: "Unproject Presentation"
 ---
