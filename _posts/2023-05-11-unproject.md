@@ -26,22 +26,30 @@ category: presentation
     This account focuses on "archiving traditional, abandoned, and demolished houses in Jumeirah".
     ---
     ## Why?
-    I personally grew up in Jumeirah, Dubai with my family and visiting my grandmother's house there everyday after school.
+    - I personally grew up in Jumeirah, Dubai with my family and visiting my grandmother's house there everyday after school.
     The data chosen is important to me as it holds sentimental value with memories.
+    - I also want to understand the ideas that 
     ---
    ## Techniques:
-    1. Collect data from Instagram Posts.
-    2. Detect comments not in English, usually in Emirati Arabic.
-    3. Understand the inaccurate translations.
-    4. Process the inaccuracies through a curated database.
-    5. 
+   Use text analysis techniques to further analyze proposed texts (and dialects) to better compose correct translation programs in
     ---
    ## Aims:
-    The main goal of this project is to create a flawless database that 
+    The main goal of this project is to create a flawless database that can successfully detect inaccurate translations and correct them.
+    
     ---
-   ## Values:
+   ## Participation:
+    This project aims to contain ideas of the people in Jumeirah that showcase cultural diversity and availability through language.
+    
     ---
    ## Workplan:
-    
+    1. Collect data from Instagram Posts.
+    2. The team detect comments not in English, usually in Emirati Arabic.
+    4. Categorize the data based on the degree of inaccuracies.
+    5. Understand the inaccurate translations in the context of the post.
+    6. Process the inaccuracies through a curated database.
+    7. Check if the captions pass as accurate or inaccurate.
+    8. Develop an webpage that hosts this program.
+    9. Create a public trial run of the program that can be tested by people.
+    10. Implement people's suggestions and possibly expand the database with
   </textarea>
 </section>
