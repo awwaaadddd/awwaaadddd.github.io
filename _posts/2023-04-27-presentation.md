@@ -1,7 +1,7 @@
 ---
 layout: slide
-title: Presentation Trial
-excerpt: A file showcasing my first presentation trial
+title: Unproject Presentation: Creating an AI Program that Correctly Translates Captions using Text Analysis for Digital-Social Storytelling.
+excerpt: A file exhibiting my Unproject
 # theme: simple
 transition: convex
 tags: [presentation]
@@ -13,7 +13,9 @@ category: presentation
     ## Reveal.js and Jekyll Academic
     ---
     ## HTML or Markdown
-    Reveal.js works with either Use whatever you are more comfortable with.
+    Creating an AI Program that Correctly Translates Captions using Text Analysis Tehcniques for Digital-Social Storytelling.
+    Awad AlMehairi
+    IM-UH-15111 Introduction to Digital Humanities
     ---
     ## Works Anywhere
     By creating presentations using Reveal.js and hosting them on your Jekyll Academic site you will have access to them anywhere. No need to worry about software compatibility, no need to sign in to email accounts on public machines. Simply load your website and select the presentation.
