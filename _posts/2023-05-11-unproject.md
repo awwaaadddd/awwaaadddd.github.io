@@ -12,8 +12,7 @@ category: presentation
   <textarea data-template>
     ## Reveal.js and Jekyll Academic
     ---
-    ## HTML or Markdown
-    Creating an AI Program that Correctly Translates Captions using Text Analysis Tehcniques for Digital-Social Storytelling.
+    # Creating an AI Program that Correctly Translates Captions using Text Analysis Tehcniques for Digital-Social Storytelling.
     Awad AlMehairi
     IM-UH-15111 Introduction to Digital Humanities
     ---
