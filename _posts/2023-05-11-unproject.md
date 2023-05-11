@@ -30,6 +30,10 @@ category: presentation
     The data chosen is important to me as it holds sentimental value with memories.
     ---
    ## Techniques:
+    1. Collect data from Instagram Posts.
+    2. Detect comments not in English, usually in Emirati Arabic.
+    3. Understand the
+    4.
     ---
    ## Aims:
     ---
