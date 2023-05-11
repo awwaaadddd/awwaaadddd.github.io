@@ -32,10 +32,12 @@ category: presentation
    ## Techniques:
     1. Collect data from Instagram Posts.
     2. Detect comments not in English, usually in Emirati Arabic.
-    3. Understand the
-    4.
+    3. Understand the inaccurate translations.
+    4. Process the inaccuracies through a curated database.
+    5. 
     ---
    ## Aims:
+    The main goal of this project is to create a flawless database that 
     ---
    ## Values:
     ---
