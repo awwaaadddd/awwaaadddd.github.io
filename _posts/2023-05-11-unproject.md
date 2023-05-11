@@ -24,20 +24,16 @@ category: presentation
     Most data for this project is collected from Intagram accounts of a different language and dialects.
     Instagram account: **@goodbyeoldjumeirah**.
     This account focuses on "archiving traditional, abandoned, and demolished houses in Jumeirah".
-    
     ---
     ## Why?
     I personally grew up in Jumeirah, Dubai with my family and visiting my grandmother's house there everyday after school.
     The data chosen is important to me as it holds sentimental value with memories.
     ---
    ## Techniques:
-    
     ---
    ## Aims:
-    
     ---
    ## Values:
-    
     ---
    ## Workplan:
     
