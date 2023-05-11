@@ -4,7 +4,7 @@ title: "Unproject Presentation: Creating an AI Program that Correctly Translates
 excerpt: A file exhibiting my Unproject
 # theme: simple
 transition: convex
-tags: [presentation]
+tags: [unproject]
 category: presentation
 ---
 <link rel="stylesheet" href="dist/theme/beige.css">
