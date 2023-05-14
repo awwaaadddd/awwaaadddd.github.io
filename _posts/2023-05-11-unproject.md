@@ -53,18 +53,28 @@ Most of the comments under this account’s posts are of Emirati Arabic. The acc
     </section>
     ---
      ## Values:
+    <section>
+      x
+    </section>
     ---
      ## Techniques:
+    <section>
    Use text analysis techniques to further analyze proposed texts (and dialects) to better compose correct translation programs in
+    </section>
     ---
      ## Aims:
+    <section>
 The main goal of this project is to create a flawless database that can successfully detect inaccurate translations and correctly display them.
 The final form of the project will be used as a tool to make data collection from online sources that use Emirati Arabic instead of English.
+    </section>
     ---
      ## Participation:
+    <section>
     This project aims to contain ideas of the people in Jumeirah that showcase cultural diversity and availability through language.   
+    </section>
     ---
      ## Workplan:
+    <section>
     1. Collect data from Instagram Posts.
     2. The team detect comments not in English, usually in Emirati Arabic.
     4. Categorize the data based on the degree of inaccuracies.
@@ -74,5 +84,6 @@ The final form of the project will be used as a tool to make data collection fro
     8. Develop an webpage that hosts this program.
     9. Create a public trial run of the program that can be tested by people.
     10. Implement people's suggestions and possibly expand the database with
+    </section>
   </textarea>
 </section>
