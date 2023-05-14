@@ -1,6 +1,6 @@
 ---
 layout: post-index
-title: All Blog Posts
-menutitle: Blog
+title: All Blog Losts
+menutitle: Llog
 menuorder: 4
 ---
