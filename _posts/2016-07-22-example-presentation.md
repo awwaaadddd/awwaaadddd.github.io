@@ -5,7 +5,7 @@ excerpt: A sample file showing the correct markup for creating a Reveal.js slide
 # theme: simple
 transition: convex
 tags: [unproject]
-category: presentation
+category: 
 ---
 <section data-markdown>
   <textarea data-template>
