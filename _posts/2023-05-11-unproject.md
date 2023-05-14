@@ -27,54 +27,54 @@ Emirati Arabic is one of those prone to inaccurate translations, thus inaccurate
     </section>
    ---
     ## Main Concerns:
-   <section>
+      <section>
      Maintain consistent usage of Emirati Arabic in research purposes.
 Allow researchers and social media users in general to understand Emirati Arabic and not shy away from it, especially during research or important announcements (especially those within communities).
     </section>
     ---
      ## Data & Their Sources:
-      <section>
+       <section>
         Most data for this project is collected from social media accounts with captions/comments of different versions of Emirati Arabic.
 Other versions of this project will be fully developed to house translation processes of other languages and dialects (not necessarily of Arabic).
 Other forms of data include written narratives and poetry in Emirati Arabic. These sources are used to expand the database with a richer vocabulary.
-    </section>
-        <section>
+      </section>
+       <section>
           Instagram accounts like @goodbyeoldjumeirah are used to fuel the database with vocabulary from the public. This account focuses on "archiving traditional, abandoned, and demolished houses in Jumeirah".
 Most of the comments under this account’s posts are of Emirati Arabic. The account managers are natives of the UAE, and most of the comments under their posts are from other locals commenting in Emirati Arabic.
-    </section>
-<section>
+      </section>
+       <section>
   @almawrooth on Instagram – a page that aims to document inherent aspects of locations in the UAE by the people from an older time of today. Most of the contributions and explanations are in Emirati Arabic. This account brings forth a historical influence on the usage of certain words of Emirati Arabic.
     </section>
     ---
      ## Ethics:
-    <section>
+       <section>
       This project is guided by the motive of wanting to maintain the identity of Emiratis across social media platforms that are usually dominantly westernized. It follows copyright guidelines with the sources it uses for data collection and database construction.
      Development of this project is organized and completed by a team of Emirati professionals that are experts in linguistics and data collection.
     </section>
     ---
      ## Values:
-    <section>
+       <section>
       x
     </section>
     ---
      ## Techniques:
-    <section>
+       <section>
    Use text analysis techniques to further analyze proposed texts (and dialects) to better compose correct translation programs in
     </section>
     ---
      ## Aims:
-    <section>
+       <section>
 The main goal of this project is to create a flawless database that can successfully detect inaccurate translations and correctly display them.
 The final form of the project will be used as a tool to make data collection from online sources that use Emirati Arabic instead of English.
     </section>
     ---
      ## Participation:
-    <section>
+       <section>
     This project aims to contain ideas of the people in Jumeirah that showcase cultural diversity and availability through language.   
     </section>
     ---
      ## Workplan:
-    <section>
+       <section>
     1. Collect data from Instagram Posts.
     2. The team detect comments not in English, usually in Emirati Arabic.
     4. Categorize the data based on the degree of inaccuracies.
