@@ -12,11 +12,10 @@ category: presentation
 
 <section data-markdown>
   <textarea data-template>
-    <section>
     ### Creating an AI Program that Correctly Translates Captions using Text Analysis Tehcniques for Digital-Social Storytelling.
     Awad AlMehairi
-    IM-UH-1511 - Introduction to Digital Humanities<section/>
-      <section>
+    IM-UH-1511 - Introduction to Digital Humanities
+   
         <section>
     ## Scope:
        This project focuses on tackling incorrect social media captions and messages by forging together an AI system that detects inconsistent translations across social media platforms that communicate incoherent ideas due to inaccurate translations. The main idea it approaches is language, mainly the Emirati Arabic dialect.</section>
