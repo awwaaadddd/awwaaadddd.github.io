@@ -21,7 +21,6 @@ category: presentation
     </section>
       <section>Lots of dialects are improperly documented online that their translation processes are almost always slightly off or based on the formal form of the detected language.
 Emirati Arabic is one of those prone to inaccurate translations, thus inaccurate interpretations.</section>
-    <section>Lots of dialects are improperly documented online that their translation processes are almost always slightly off or based on the formal form of the detected language. Emirati Arabic is one of those prone to inaccurate translations, thus inaccurate interpretations.<section>
  </section>
      ---
     ## Main Concerns:
