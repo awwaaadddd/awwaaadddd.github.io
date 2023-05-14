@@ -24,11 +24,10 @@ Emirati Arabic is one of those prone to inaccurate translations, thus inaccurate
  <section>
      ---
   ## Main Concerns:
-   <section>Maintain consistent usage of Emirati Arabic in research purposes.
-Allow researchers and social media users in general to understand Emirati Arabic and not shy away from it, especially during research or important announcements (especially those within communities).</section>
-     <section>
+   Maintain consistent usage of Emirati Arabic in research purposes.
+Allow researchers and social media users in general to understand Emirati Arabic and not shy away from it, especially during research or important announcements (especially those within communities).
     ---
-    <section>## Data:
+    ## Data:
    Most data for this project is collected from social media accounts with captions/comments of different versions of Emirati Arabic.
 Other versions of this project will be fully developed to house translation processes of other languages and dialects (not necessarily of Arabic).
 Other forms of data include written narratives and poetry in Emirati Arabic. These sources are used to expand the database with a richer vocabulary.<
