@@ -21,16 +21,17 @@ category: presentation
     </section>
       <section>Lots of dialects are improperly documented online that their translation processes are almost always slightly off or based on the formal form of the detected language.
 Emirati Arabic is one of those prone to inaccurate translations, thus inaccurate interpretations.</section>
- </section>
+ <section>
      ---
-    ## Main Concerns:
+   <section> ## Main Concerns:
     Maintain consistent usage of Emirati Arabic in research purposes.
-Allow researchers and social media users in general to understand Emirati Arabic and not shy away from it, especially during research or important announcements (especially those within communities).
+Allow researchers and social media users in general to understand Emirati Arabic and not shy away from it, especially during research or important announcements (especially those within communities).</section>
+     <section>
     ---
-    ## Data:
+    <section>## Data:
    Most data for this project is collected from social media accounts with captions/comments of different versions of Emirati Arabic.
 Other versions of this project will be fully developed to house translation processes of other languages and dialects (not necessarily of Arabic).
-Other forms of data include written narratives and poetry in Emirati Arabic. These sources are used to expand the database with a richer vocabulary.
+Other forms of data include written narratives and poetry in Emirati Arabic. These sources are used to expand the database with a richer vocabulary.<
     ---
     ## Data Source:
     Instagram account like *@goodbyeoldjumeirah*. This account focuses on "archiving traditional, abandoned, and demolished houses in Jumeirah".
