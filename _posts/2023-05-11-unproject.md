@@ -12,19 +12,21 @@ category: presentation
 
 <section data-markdown>
   <textarea data-template>
+    <section>
     ### Creating an AI Program that Correctly Translates Captions using Text Analysis Tehcniques for Digital-Social Storytelling.
     Awad AlMehairi
-    IM-UH-1511 - Introduction to Digital Humanities
-    ---
+    IM-UH-1511 - Introduction to Digital Humanities<section/>
+      <section>
+        <section>
     ## Scope:
-        <section>This project focuses on tackling incorrect social media captions and messages by forging together an AI system that detects inconsistent translations across social media platforms that communicate incoherent ideas due to inaccurate translations. The main idea it approaches is language, mainly the Emirati Arabic dialect.</section>
+       This project focuses on tackling incorrect social media captions and messages by forging together an AI system that detects inconsistent translations across social media platforms that communicate incoherent ideas due to inaccurate translations. The main idea it approaches is language, mainly the Emirati Arabic dialect.</section>
         <section>Lots of dialects are improperly documented online that their translation processes are almost always slightly off or based on the formal form of the detected language.
 Emirati Arabic is one of those prone to inaccurate translations, thus inaccurate interpretations.</section>
  <section>
-     ---
+ <section>
    ## Main Concerns:
    Maintain consistent usage of Emirati Arabic in research purposes.
-Allow researchers and social media users in general to understand Emirati Arabic and not shy away from it, especially during research or important announcements (especially those within communities).
+Allow researchers and social media users in general to understand Emirati Arabic and not shy away from it, especially during research or important announcements (especially those within communities).</section>
     ---
     ## Data & Their Sources:
       <section>Most data for this project is collected from social media accounts with captions/comments of different versions of Emirati Arabic.
@@ -37,6 +39,7 @@ Most of the comments under this account’s posts are of Emirati Arabic. The acc
     ---
     ## Ethics:
     This project is guided by the motive of wanting to maintain the identity of Emiratis across social media platforms that are usually dominantly westernized. It follows copyright guidelines with the sources it uses for data collection and database construction.
+     Development of this project is organized and completed by a team of Emirati professionals that are experts in linguistics and data collection.
     ---
     ## Values:
     ---
