@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Assignment 1
-excerpt: "DLME Assignment 1"
+excerpt: "Digital Library of the Middle East Metadate Analysis & Comparision"
 modified: 3/13/2023, 9:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
