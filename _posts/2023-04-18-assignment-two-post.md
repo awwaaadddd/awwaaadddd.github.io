@@ -1,10 +1,11 @@
 ---
-title: "Assignment 2 - Working with a Corpus"
-layout: textlay
-excerpt: "Corpus Assignment"
-sitemap: true
-date: 2023-04-18
-permalink: /corpus-assignment/
+layout: post
+title: Assignment 2
+excerpt: "Corpus Analysis Using Voyant Tools"
+modified: 2/29/2016, 9:00:24
+tags: [intro, beginner, jekyll, tutorial]
+comments: true
+category: blog
 ---
 
 # An Analysis of *My Friend the Murderer* by Arthur Conan Doyle using Voyant Tools:
