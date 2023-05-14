@@ -11,21 +11,23 @@ category: presentation
 <section data-markdown>
   <link rel="stylesheet" href="dist/theme/serif.css">
   <textarea data-template>
-    ### Creating an AI Program that Correctly Translates Captions using Text Analysis Tehcniques for Digital-Social Storytelling.
+   <section> ### Creating an AI Program that Correctly Translates Captions using Text Analysis Tehcniques for Digital-Social Storytelling.
     Awad AlMehairi
     IM-UH-1511 - Introduction to Digital Humanities.
+     </section>
    ---
     ## Scope:
     <section>
-      This project focuses on tackling incorrect social media captions and messages by forging together an AI system that detects inconsistent translations across social media platforms that communicate incoherent ideas due to inaccurate translations. The main idea it approaches is language, mainly the Emirati Arabic dialect.</section>
+      <section>This project focuses on tackling incorrect social media captions and messages by forging together an AI system that detects inconsistent translations across social media platforms that communicate incoherent ideas due to inaccurate translations. The main idea it approaches is language, mainly the Emirati Arabic dialect.</section>
         <section>Lots of dialects are improperly documented online that their translation processes are almost always slightly off or based on the formal form of the detected language.
 Emirati Arabic is one of those prone to inaccurate translations, thus inaccurate interpretations.</section>
- <section>
+    </section>
    ---
     ## Main Concerns:
  <section>
-   Maintain consistent usage of Emirati Arabic in research purposes.
+   <section>Maintain consistent usage of Emirati Arabic in research purposes.
 Allow researchers and social media users in general to understand Emirati Arabic and not shy away from it, especially during research or important announcements (especially those within communities).</section>
+   </section>
     ---
      ## Data & Their Sources:
       <section>Most data for this project is collected from social media accounts with captions/comments of different versions of Emirati Arabic.
