@@ -12,7 +12,7 @@ category: presentation
 
 <section data-markdown>
   <textarea data-template>
-    ## Creating an AI Program that Correctly Translates Captions using Text Analysis Tehcniques for Digital-Social Storytelling.
+    # Creating an AI Program that Correctly Translates Captions using Text Analysis Tehcniques for Digital-Social Storytelling.
     Awad AlMehairi
     IM-UH-1511 - Introduction to Digital Humanities
     ---
