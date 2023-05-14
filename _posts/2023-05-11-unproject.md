@@ -2,20 +2,24 @@
 layout: slide
 title: "Unproject Presentation"
 excerpt: Creating an AI Program that Correctly Translates Captions using Text Analysis for Digital Social Storytelling
-# theme: Serif
+# theme: serif
 transition: convex
 tags: [unproject]
 category: presentation
 ---
-<link rel="stylesheet" href="dist/theme/Serif.css">
+
+<link rel="stylesheet" href="dist/theme/serif.css">
+
 <section data-markdown>
   <textarea data-template>
     ## Creating an AI Program that Correctly Translates Captions using Text Analysis Tehcniques for Digital-Social Storytelling.
     Awad AlMehairi
-    IM-UH-15111 Introduction to Digital Humanities
+    IM-UH-1511 - Introduction to Digital Humanities
     ---
     ## Scope:
-    This project focuses on tackling incorrect social media captions and messages by forging together an AI system that detects inconsistent translations across social media platforms that communicate incoherent ideas due to inaccurate translations. The main idea it approaches is language, mainly the Emirati Arabic dialect. Lots of dialects are improperly documented online that their translation processes are almost always slightly off or based on the formal form of the detected language.
+    This project focuses on tackling incorrect social media captions and messages by forging together an AI system that detects inconsistent translations across social media platforms that communicate incoherent ideas due to inaccurate translations. The main idea it approaches is language, mainly the Emirati Arabic dialect.
+    ---
+    Lots of dialects are improperly documented online that their translation processes are almost always slightly off or based on the formal form of the detected language.
 Emirati Arabic is one of those prone to inaccurate translations, thus inaccurate interpretations.
     ---
     ## Main Concerns:
