@@ -11,7 +11,8 @@ category: presentation
 <section data-markdown>
   <link rel="stylesheet" href="dist/theme/serif.css">
   <textarea data-template>
-   <section> ### Creating an AI Program that Correctly Translates Captions using Text Analysis Tehcniques for Digital-Social Storytelling.
+   ### Creating an AI Program that Correctly Translates Captions using Text Analysis Tehcniques for Digital-Social Storytelling.
+    <section> 
     Awad AlMehairi
     IM-UH-1511 - Introduction to Digital Humanities.
      </section>
@@ -30,6 +31,7 @@ Allow researchers and social media users in general to understand Emirati Arabic
    </section>
     ---
      ## Data & Their Sources:
+    <section>
       <section>Most data for this project is collected from social media accounts with captions/comments of different versions of Emirati Arabic.
 Other versions of this project will be fully developed to house translation processes of other languages and dialects (not necessarily of Arabic).
 Other forms of data include written narratives and poetry in Emirati Arabic. These sources are used to expand the database with a richer vocabulary.</section>
@@ -39,8 +41,9 @@ Most of the comments under this account’s posts are of Emirati Arabic. The acc
    <section>
     ---
      ## Ethics:
-    This project is guided by the motive of wanting to maintain the identity of Emiratis across social media platforms that are usually dominantly westernized. It follows copyright guidelines with the sources it uses for data collection and database construction.
+    <section> This project is guided by the motive of wanting to maintain the identity of Emiratis across social media platforms that are usually dominantly westernized. It follows copyright guidelines with the sources it uses for data collection and database construction.
      Development of this project is organized and completed by a team of Emirati professionals that are experts in linguistics and data collection.
+     </section>
     ---
      ## Values:
     ---
