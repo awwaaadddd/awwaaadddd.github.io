@@ -1,10 +1,11 @@
 ---
-Layout: post
-Title: "DLME Assignment One"
-Date: 2023-03-13
-Sitemap: true
-Category: blog
-Permalink: /2023-03-13-assignment-one-post.md/
+layout: post
+title: Assignment 1
+excerpt: "DLME Assignment 1"
+modified: 2/29/2023, 9:00:24
+tags: [intro, beginner, jekyll, tutorial]
+comments: true
+category: blog
 ---
 
 # 1. **Introduction:**
