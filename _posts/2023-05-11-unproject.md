@@ -33,7 +33,7 @@ Other forms of data include written narratives and poetry in Emirati Arabic. The
         <section>Instagram accounts like @goodbyeoldjumeirah are used to fuel the database with vocabulary from the public. This account focuses on "archiving traditional, abandoned, and demolished houses in Jumeirah".
 Most of the comments under this account’s posts are of Emirati Arabic. The account managers are natives of the UAE, and most of the comments under their posts are from other locals commenting in Emirati Arabic.</section>
 <section>@almawrooth on Instagram – a page that aims to document inherent aspects of locations in the UAE by the people from an older time of today. Most of the contributions and explanations are in Emirati Arabic. This account brings forth a historical influence on the usage of certain words of Emirati Arabic</section>
-       <section>
+   <section>
     ---
     ## Ethics:
     This project is guided by the motive of wanting to maintain the identity of Emiratis across social media platforms that are usually dominantly westernized. It follows copyright guidelines with the sources it uses for data collection and database construction.
