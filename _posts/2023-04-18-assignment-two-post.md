@@ -21,6 +21,7 @@ Another idea I wish to better grasp after this analysis is that if corpora alway
 
 ### 2.1 Why *My Friend the Murderer*?:
 I personally chose *My Friend the Murderer* by Arthur Conan Doyle because of its intriguing title. How can you befriend a murderer? I wanted to understand how such title can house specific themes that are prominent throughout an entire set of text. Understanding the pattern of words or context that gets brought up in a book, or any piece of text in generel, is quite important ot the theme and general plot/trend of ideas throughout the passage. In his book *In Praise of Pattern* Stephen Ramsay talks baout how using text analysis tools to understand the connection between "the computational strictures of text analysis and the open-ended interpretive landscape of literary studies" (Ramsay, 2005).
+His appraoch to digital text analysis is that of a visual one. His endeavor of creating *StageGraph* as a tool for visualizing "dramatic structure", and the main idea behind his argument is that the usage of online visualization tools is valid in the run of analyzing texts. Connecting his work an dunderstanding the "Graph Theory" in the way it underlines computational location mechanisms with digital settings proves that text analysis can provide a pattern for thought and understanding.
 
 
 ## 3. *"My Friend the Murderer"* and Doyle:
