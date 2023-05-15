@@ -16,11 +16,11 @@ The way data is contained around us can either make data analysis way easier or 
 When working with a corpus, prior basic knowledge to its contents deems significant as one can use it to build further knowledge. Different corpora can have different usages, and understanding each possible usage can lead to knowing what corpus would be better for the job. This also goes hand-in-hand with the methods used to analyze the chosen corpus. In this case, my goal is to analyze a corpus through Voyant Tools or the R Markdown Files. I'll be focusing on utilizing the various visualization tools that are made available with the Voyant Tools web-based analysis tools as I find them really interactive and clear. For my corpus, I'll delve into the *Doyle* Corpus, and mainly, *"My Friend the Murderer"* by Arthur Conan Doyle.
 
 ## 2. Motives:
-For this blog entry (assignment #2), I persoanlly want to understand the significant dichotomy that arises from the interactions that AI programs have with archival data sets. AI is rapidly growing everyday, and knowing how that influences old archival sets and corpora is very interesting to me. I personally enjoy understanding whether this interaction is beneficial or not and to weight out the pros and cons to better tell whether AI is more disruptive than it is helpful.
+For this blog entry (assignment #2), I personally want to understand the significant dichotomy that arises from the interactions that AI programs have with archival data sets. AI is rapidly growing everyday, and knowing how that influences old archival sets and corpora is very interesting to me. I personally enjoy understanding whether this interaction is beneficial or not and to weight out the pros and cons to better tell whether AI is more disruptive than it is helpful.
 Another idea I wish to better grasp after this analysis is that if corpora always contain related data sets or not. As mentioned above, I'll focus on Doyle's *"My Friend the Murderer"*, however, I will not shy away from comparing it to other parts of the corpus if anything interesting or suspicous captures my attention.
 
 ### 2.1 Why *My Friend the Murderer*?:
-
+I personally chose *My Friend the Murderer* by Arthur Conan Doyle because of its intriguing title. How can you befriend a murderer? I wanted to understand how such title can house specific themes that are prominent throughout an entire set of text. Understanding the pattern of words or context that gets brought up in a book, or any piece of text in generel, is quite important ot the theme and general plot/trend of ideas throughout the passage. In his book *In Praise of Pattern* Stephen Ramsay talks baout how using text analysis tools to understand the connection between "the computational strictures of text analysis and the open-ended interpretive landscape of literary studies" (Ramsay, 2005).
 
 
 ## 3. *"My Friend the Murderer"* and Doyle:
@@ -64,3 +64,6 @@ This tool is useful when trying to identify the significance of any sentence thr
 ## 6. Significances and Usages:
 
 ## 7. Conclusions:
+
+## 8. Resources:
+
