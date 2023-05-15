@@ -23,7 +23,6 @@ Another idea I wish to better grasp after this analysis is that if corpora alway
 I personally chose *My Friend the Murderer* by Arthur Conan Doyle because of its intriguing title. How can you befriend a murderer? I wanted to understand how such title can house specific themes that are prominent throughout an entire set of text. Understanding the pattern of words or context that gets brought up in a book, or any piece of text in generel, is quite important ot the theme and general plot/trend of ideas throughout the passage. In his book *In Praise of Pattern* Stephen Ramsay talks baout how using text analysis tools to understand the connection between "the computational strictures of text analysis and the open-ended interpretive landscape of literary studies" (Ramsay, 2005).
 His appraoch to digital text analysis is that of a visual one. His endeavor of creating *StageGraph* as a tool for visualizing "dramatic structure", and the main idea behind his argument is that the usage of online visualization tools is valid in the run of analyzing texts. Connecting his work an dunderstanding the "Graph Theory" in the way it underlines computational location mechanisms with digital settings proves that text analysis can provide a pattern for thought and understanding.
 
-
 ## 3. *"My Friend the Murderer"* and Doyle:
 Arthur Conan Doyle was born to British origins on the 22nd of May, 1859. He pursued a medical career as a physician and became a writier of ficiton, science fiction,, fantasy, and non fiction. One of Doyle's most notable pieces of work would be the invention of the fictional character of Sherlock Holmes. Holmes then went on to become one of the most famous and recognizable names in the literary world. The growth of Holmes as a character played a major role in expanding the fictional world and turning it into a cinematic one as well. The Sherlock Holmes character appeared in more than 40 movies, animated ones too. The franchise then delved deeper into the detective Holmes universe exploring character like his sister, Enola Holmes, in *Enola Holmes 1* and *Enola Holmes 2*.
 
@@ -47,6 +46,7 @@ All of these 3 initial visualizations of the text briefly showcase the general c
 - In the context of *My Friend the Murderer*, the generated word cloud demonstrates the two most common words as "project" and "gutenberg".
 
 2. Similar to the word cloud, **the termberries** (in the middle) showcases the frequency of the words but in bubble form. The bigger the bubble, the more frequent the word is. However, the termberries tool also allows us to visualize the occurence of these words next to each other in the corpus. When you hover over a bubble, it showcases other bubbles in blue. This makes it clear that these words frequently appear together in the corpus.
+
 3. **The line graph** (on the far right) is used to horizontaly establish the relative frequencies of words across the corpus. It also helps by clearly  showcasing the frequencies across the corpus's timeline, from the start of it to its end.
 
 ### 4.2 Visualization Tools - Loom:
