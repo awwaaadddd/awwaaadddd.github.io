@@ -10,7 +10,7 @@ category: presentation
 <section data-markdown>
   <link rel="stylesheet" href="dist/theme/serif.css">
   <textarea data-template>
-	    <h2>Creating an AI Program that Correctly Translates Captions using Text Analysis Tehcniques for Digital-Social Storytelling</h2>
+	    <h3>Creating an AI Program that Correctly Translates Captions using Text Analysis Tehcniques for Digital-Social Storytelling</h3>
 	    Awad AlMehairi
 	    IM-UH-1511 - Introduction to Digital Humanities.
 	  ---
@@ -27,8 +27,12 @@ category: presentation
 		<section>
 		<h2>Data & Their Sources:</h2>
 		<section>Most data for this project is collected from social media accounts with captions/comments of different versions of Emirati Arabic. Other versions of this project will be fully developed to house translation processes of other languages and dialects (not necessarily of Arabic). Other forms of data include written narratives and poetry in Emirati Arabic. These sources are used to expand the database with a richer vocabulary.</section>
+	  </section>
+	  <section>
 			<h2>Data & Their Sources:</h2>
 		<section>Instagram accounts like @goodbyeoldjumeirah are used to fuel the database with vocabulary from the public. This account focuses on "archiving traditional, abandoned, and demolished houses in Jumeirah". Most of the comments under this account’s posts are of Emirati Arabic. The account managers are natives of the UAE, and most of the comments under their posts are from other locals commenting in Emirati Arabic.</section>
+	  </section>
+	  <section>
 			<h2>Data & Their Sources:</h2>
 		<section>@almawrooth on Instagram – a page that aims to document inherent aspects of locations in the UAE by the people from an older time of today. Most of the contributions and explanations are in Emirati Arabic. This account brings forth a historical influence on the usage of certain words of Emirati Arabic.</section>
 		</section>
