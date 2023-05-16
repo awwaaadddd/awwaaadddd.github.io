@@ -3,7 +3,7 @@ layout: resume
 menuorder: 3
 menutitle: Resume
 ---
-## Currently
+
 
 A sophomore student at NYUAD studying psychology & visual arts
 
