@@ -7,7 +7,6 @@ transition: convex
 tags: [unproject]
 category: presentation
 ---
-
 <section data-markdown>
   <link rel="stylesheet" href="dist/theme/serif.css">
   <textarea data-template>
