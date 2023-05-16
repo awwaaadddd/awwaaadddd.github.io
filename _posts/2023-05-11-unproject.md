@@ -23,6 +23,7 @@ category: presentation
 		  <h2>Scope:</h2>
 		<section>Lots of dialects are improperly documented online that their translation processes are almost always slightly off or based on the formal form of the detected language. Emirati Arabic is one of those prone to inaccurate translations, thus inaccurate interpretations.</section>
 		</section>
+	  </section>
 		---
 		<h2>Main Concerns:</h2>
 		<section>Maintain consistent usage of Emirati Arabic in research purposes.
@@ -60,10 +61,14 @@ category: presentation
 		  test
 	  </section>
 	  ---
+	<section>
 		<h2>Aims:</h2>
 		The main goal of this project is to create a flawless database that can successfully detect inaccurate translations and correctly display them. The final form of the project will be used as a tool to make data collection from online sources that use Emirati Arabic instead of English.
+	</section>
 		---
+	<section>
 		<h2>Participation:</h2>
 		This project aims to contain ideas of the people in Jumeirah that showcase cultural diversity and availability through language.
+	</section>
   </textarea>
 </section>
