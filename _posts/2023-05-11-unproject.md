@@ -15,6 +15,7 @@ category: presentation
 	    IM-UH-1511 - Introduction to Digital Humanities.
 	  </section>
 	  <section>
+	  <section>
 		<h2>Scope:</h2>
 		<section>This project focuses on tackling incorrect social media captions and messages by forging together an AI system that detects inconsistent translations across social media platforms that communicate incoherent ideas due to inaccurate translations. The main idea it approaches is language, mainly the Emirati Arabic dialect.</section>
 	  </section>
@@ -39,23 +40,30 @@ category: presentation
 		  <h2>Data & Their Sources:</h2>
 		<section>@almawrooth on Instagram – a page that aims to document inherent aspects of locations in the UAE by the people from an older time of today. Most of the contributions and explanations are in Emirati Arabic. This account brings forth a historical influence on the usage of certain words of Emirati Arabic.</section>
 		</section>
+		  </section>
 		---
+	  <section>
 		<h2>Ethics:</h2>
 		This project is guided by the motive of wanting to maintain the identity of Emiratis across social media platforms that are usually dominantly westernized. It follows copyright guidelines with the sources it uses for data collection and database construction. Development of this project is organized and completed by a team of Emirati professionals that are experts in linguistics and data collection.
-		---
+	  </section>
+	  <section>
 		<h2>Values:</h2>
 		test
+	  </section>
 		---
+	  <section>
 		<h2>Techniques:</h2>
 		Use text analysis techniques to further analyze proposed texts (and dialects) to better compose correct translation programs in
-		---
+	  </section>
+	  <section>
+	  <h2>Workplan:</h2>
+		  test
+	  </section>
+	  ---
 		<h2>Aims:</h2>
-		The main goal of this project is to create a flawless database that can successfully detect inaccurate translations and correctly display them. The final form of the project will be used as a tool to make data collection from online sources that use Emirati Arabic instead of English.</section>
+		The main goal of this project is to create a flawless database that can successfully detect inaccurate translations and correctly display them. The final form of the project will be used as a tool to make data collection from online sources that use Emirati Arabic instead of English.
 		---
 		<h2>Participation:</h2>
 		This project aims to contain ideas of the people in Jumeirah that showcase cultural diversity and availability through language.
-		---
-		<h2>Workplan:</h2>
-		test
   </textarea>
 </section>
