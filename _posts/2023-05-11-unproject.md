@@ -56,6 +56,5 @@ category: presentation
 		---
 		<h2>Workplan:</h2>
 		test
-
   </textarea>
 </section>
