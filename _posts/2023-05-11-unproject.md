@@ -15,7 +15,6 @@ category: presentation
 	    Awad AlMehairi
 	    IM-UH-1511 - Introduction to Digital Humanities.
 	  </section>
-	  ---
 	  <section>
 		<h2>Scope:</h2>
 		<section>This project focuses on tackling incorrect social media captions and messages by forging together an AI system that detects inconsistent translations across social media platforms that communicate incoherent ideas due to inaccurate translations. The main idea it approaches is language, mainly the Emirati Arabic dialect.</section>
