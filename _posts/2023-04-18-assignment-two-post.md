@@ -55,7 +55,7 @@ All of these 3 initial visualizations of the text briefly showcase the general c
 The phrases tool under grid tools creates a table that organizes different phrases from the corpus that are repeated. It also counts the times each phrases was repeated and the number of words generally part of said phrase.
 This tool is useful when trying to identify the significance of any sentence throughout the entirety of the corpus' text.
 
-<img src="/assets/phrasestable.png" style="zoom:25%"/>
+<img src="/assets/phrasestable.png" style="zoom:40%"/>
 **Fig.2 *My Friend the Murderer* Grid Tools - Phrases from Voyant Tools**
 
 ### 4.4 
