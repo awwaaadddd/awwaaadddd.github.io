@@ -17,6 +17,9 @@ category: presentation
 	  <section>
 		<h2>Scope:</h2>
 		<section>This project focuses on tackling incorrect social media captions and messages by forging together an AI system that detects inconsistent translations across social media platforms that communicate incoherent ideas due to inaccurate translations. The main idea it approaches is language, mainly the Emirati Arabic dialect.</section>
+	  </section>
+	  <section>
+		  <h2>Scope:</h2>
 		<section>Lots of dialects are improperly documented online that their translation processes are almost always slightly off or based on the formal form of the detected language. Emirati Arabic is one of those prone to inaccurate translations, thus inaccurate interpretations.</section>
 		</section>
 		---
