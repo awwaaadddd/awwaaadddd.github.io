@@ -22,9 +22,11 @@ category: presentation
       <section>Lots of dialects are improperly documented online that their translation processes are almost always slightly off or based on the formal form of the detected language. Emirati Arabic is one of those prone to inaccurate translations, thus inaccurate interpretations.</section>
     </section>
     ---
+    <section>
     ### Main Concerns:
     <section>Maintain consistent usage of Emirati Arabic in research purposes.
 Allow researchers and social media users in general to understand Emirati Arabic and not shy away from it, especially during research or important announcements (especially those within communities).</section>
+    </section>
     ---
     <section>
            ### Data & Their Sources:
