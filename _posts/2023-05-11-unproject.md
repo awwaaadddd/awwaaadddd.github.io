@@ -2,7 +2,7 @@
 layout: slide
 title: "Unproject Presentation"
 excerpt: Creating an AI Program that Correctly Translates Captions using Text Analysis for Digital Social Storytelling
-# theme: serif
+# theme: sky
 transition: convex
 tags: [unproject]
 category: presentation
