@@ -5,24 +5,24 @@ menutitle: Resume
 ---
 ## Currently
 
-Current Position Description
+A sophomore student at NYUAD studying psychology & visual arts
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2009 - 2021`
+__Dubai International Private School__
+High School Diploma
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2021 - Present`
+__New York University Abu Dhabi__
+Ongoing - BA of Science & Arts 
 
-## Awards
+<!-- ## Awards
 
-`2012`
-Name of Award, Organization 
+<> `2012`
+<> Name of Award, Organization 
 
-## Publications
+<> ## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
@@ -57,11 +57,8 @@ __Current Job Title__, Current Employer
 - Task
 - Task
 
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
+ `1994-1996`
+ __Current Job Title__, Current Employer -->
 
 
 
