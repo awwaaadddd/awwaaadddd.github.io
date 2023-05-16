@@ -4,6 +4,7 @@ menuorder: 3
 menutitle: Resume
 ---
 
+## Currently
 
 A sophomore student at NYUAD studying psychology & visual arts
 
@@ -19,12 +20,12 @@ Ongoing - BA of Science & Arts
 
 <!-- ## Awards
 
-<> `2012`
-<> Name of Award, Organization 
+`2012`
+Name of Award, Organization 
 
-<> ## Publications
+## Publications
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+ A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ)
 
 ### Journals
 
