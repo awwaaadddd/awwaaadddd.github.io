@@ -7,7 +7,7 @@ transition: convex
 tags: [unproject]
 category: presentation
 ---
-<section data-markdown>
+<section data-markup>
   <link rel="stylesheet" href="dist/theme/serif.css">
   <textarea data-template>
     <section>Horizontal Slide</section>
