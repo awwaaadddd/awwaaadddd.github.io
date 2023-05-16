@@ -27,10 +27,8 @@ Emirati Arabic is one of those prone to inaccurate translations, thus inaccurate
     </section>
     ---
     ### Main Concerns:
-     <section>
     Maintain consistent usage of Emirati Arabic in research purposes.
 Allow researchers and social media users in general to understand Emirati Arabic and not shy away from it, especially during research or important announcements (especially those within communities).
-    </section>
     ---
      ### Data & Their Sources:
        <section>
@@ -45,34 +43,23 @@ Most of the comments under this account’s posts are of Emirati Arabic. The acc
     </section>
     ---
      ### Ethics:
-    <section>
     This project is guided by the motive of wanting to maintain the identity of Emiratis across social media platforms that are usually dominantly westernized. It follows copyright guidelines with the sources it uses for data collection and database construction.
      Development of this project is organized and completed by a team of Emirati professionals that are experts in linguistics and data collection.
-    </section>
     ---
      ### Values:
-    <section>
     x
-    </section>
----
+    ---
      ## Techniques:
-    <section>
     Use text analysis techniques to further analyze proposed texts (and dialects) to better compose correct translation programs in
-    </section>
     ---
      ## Aims:
-    <section>
     The main goal of this project is to create a flawless database that can successfully detect inaccurate translations and correctly display them.
 The final form of the project will be used as a tool to make data collection from online sources that use Emirati Arabic instead of English.
-    </section>
     ---
      ## Participation:
-<section>
     This project aims to contain ideas of the people in Jumeirah that showcase cultural diversity and availability through language.   
-    </section>
     ---
      ## Workplan:
-    <section>
     1. Collect data from Instagram Posts.
     2. The team detect comments not in English, usually in Emirati Arabic.
     4. Categorize the data based on the degree of inaccuracies.
@@ -82,6 +69,5 @@ The final form of the project will be used as a tool to make data collection fro
     8. Develop an webpage that hosts this program.
     9. Create a public trial run of the program that can be tested by people.
     10. Implement people's suggestions and possibly expand the database with
-    </section>
   </textarea>
 </section>
