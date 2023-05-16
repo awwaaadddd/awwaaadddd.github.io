@@ -10,11 +10,9 @@ category: presentation
 <section data-markdown>
   <link rel="stylesheet" href="dist/theme/serif.css">
   <textarea data-template>
-    <section>
 	    <h2>Creating an AI Program that Correctly Translates Captions using Text Analysis Tehcniques for Digital-Social Storytelling</h2>
 	    Awad AlMehairi
 	    IM-UH-1511 - Introduction to Digital Humanities.
-		</section>
 	  ---
 	  <section>
 		<h2>Scope:</h2>
@@ -22,11 +20,9 @@ category: presentation
 		<section>Lots of dialects are improperly documented online that their translation processes are almost always slightly off or based on the formal form of the detected language. Emirati Arabic is one of those prone to inaccurate translations, thus inaccurate interpretations.</section>
 		</section>
 		---
-		<section>
 		<h2>Main Concerns:</h2>
 		<section>Maintain consistent usage of Emirati Arabic in research purposes.
 		Allow researchers and social media users in general to understand Emirati Arabic and not shy away from it, especially during research or important announcements (especially those within communities).</section>
-		</section>
 		---
 		<section>
 		<h2>Data & Their Sources:</h2>
@@ -37,10 +33,8 @@ category: presentation
 		<section>@almawrooth on Instagram – a page that aims to document inherent aspects of locations in the UAE by the people from an older time of today. Most of the contributions and explanations are in Emirati Arabic. This account brings forth a historical influence on the usage of certain words of Emirati Arabic.</section>
 		</section>
 		---
-		<section>
 		<h2>Ethics:</h2>
 		<section>This project is guided by the motive of wanting to maintain the identity of Emiratis across social media platforms that are usually dominantly westernized. It follows copyright guidelines with the sources it uses for data collection and database construction. Development of this project is organized and completed by a team of Emirati professionals that are experts in linguistics and data collection.</section>
-		</section>
 		---
 		<h2>Values:</h2>
 		test
