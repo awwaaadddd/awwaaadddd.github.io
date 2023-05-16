@@ -10,9 +10,11 @@ category: presentation
 <section data-markdown>
   <link rel="stylesheet" href="dist/theme/serif.css">
   <textarea data-template>
+	  <section>
 	    <h3>Creating an AI Program that Correctly Translates Captions using Text Analysis Tehcniques for Digital-Social Storytelling</h3>
 	    Awad AlMehairi
 	    IM-UH-1511 - Introduction to Digital Humanities.
+	  </section>
 	  ---
 	  <section>
 		<h2>Scope:</h2>
