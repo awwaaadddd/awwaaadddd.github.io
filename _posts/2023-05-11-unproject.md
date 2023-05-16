@@ -43,7 +43,7 @@ category: presentation
 		</section>
 		---
 		<h2>Ethics:</h2>
-		<section>This project is guided by the motive of wanting to maintain the identity of Emiratis across social media platforms that are usually dominantly westernized. It follows copyright guidelines with the sources it uses for data collection and database construction. Development of this project is organized and completed by a team of Emirati professionals that are experts in linguistics and data collection.</section>
+		This project is guided by the motive of wanting to maintain the identity of Emiratis across social media platforms that are usually dominantly westernized. It follows copyright guidelines with the sources it uses for data collection and database construction. Development of this project is organized and completed by a team of Emirati professionals that are experts in linguistics and data collection.
 		---
 		<h2>Values:</h2>
 		test
