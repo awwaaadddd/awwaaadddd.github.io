@@ -83,12 +83,17 @@ This allows us to tell that the story in hand is most likely taking place in Flo
 
 Developing my own understanding of the visualization tools of text passages has essentially drawn my attention to basic text analysis. The visuals are a bonus. Understanding the basic trends of a given corpus is easier when they're paired together. 
 
-The ideation that comes with text analysis tools almost always brings forward additional interest to the searched topic. Knowing more about it allows for broader research endeavors as well as technological advancements. A research/analysis of the Chinese search trends across social media platforms and websites (1950s - 2008) in comparision to that of the world which has showcased the drastic themes present in search trends basic on geographical location. The research focused on the usage of language in relation to location, and one of their main focuses was on the political search trends questioning why the "political communication" trends in Chinese rank lower than that of other languages, like English, Italian, French, Russian, and Spanish (Clark, et. al, 2022)(2).
+The ideation that comes with text analysis tools almost always brings forward additional interest to the searched topic. Knowing more about it allows for broader research endeavors as well as technological advancements. A research/analysis of the Chinese search trends across social media platforms and websites (1950s - 2008) in comparision to that of the world which has showcased the drastic themes present in search trends basic on geographical location. The research focused on the usage of language in relation to location, and one of their main focuses was on the political search trends questioning why the "political communication" trends in Chinese rank lower than that of other languages, like English, Italian, French, Russian, and Spanish (Clark et al, 2022)(2).
 Connecting the findings of Clark, et al. to the trends I've found while studying the *My Friend the Murderer*'s corpus has been interesting. I got to know that the way language is used determines how often it's brought up, and I also found it interesting how the consistency of words within a specific geographical location can tell the general trends of whatever is being researched, for example the political stance of people.
 
 ## 6. Conclusions:
 In conclusion, text analysis of a corpus is extremely important. It paves the way for a better understanding of texts and their contents, and when paired with visuals, it becomes easier to differentiate from what is important and what is not.
+The usages for text analysis methods are extremely versatile and can seamlessly cross different work fields and get the job done. Visual text analysis programs take the benefits of regular text analysis to another level by visualizing the inputted data across different tables, graphs, and maps too.
+Text analysis is used for fictional books, important documents, and historical archives. Roth et al. mentioned that this is the future of distributed memory. It holds the memory that peole collectively share and analyzes its docummentation (2017)(3).
 
 ## 7. Resources:
 (1) Ramsay, S. (2005). In Praise of Pattern. https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1056&context=englishfacpubs
+
 (2) Ricaurte, P., Chaudhuri, S., & Fiormonte, D. (2022). Global Debates in the Digital Humanities. Minneapolis: University of Minnesota Press.
+
+(3) Roth, S., Clark, C., Trofimov, N., Mkrtichyan, A., Heidingsfelder, M., Appignanesi, L., Plaza-Úbeda, J. A., Berkel, J., & Kaivo-Oja, J. (2017). Futures of a distributed memory. A global brain wave measurement (1800–2000). Technological Forecasting and Social Change, 118, 307–323. https://doi.org/10.1016/j.techfore.2017.02.031
