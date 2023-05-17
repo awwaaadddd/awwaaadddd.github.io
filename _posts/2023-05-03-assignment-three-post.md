@@ -44,7 +44,7 @@ For the image clustering segment of this assignment, I chose to go with **music 
 Understanding the cover of an album is part of understanding the music. The visuals tie in with the embedded themes of the music, and that further perpetuates the listening experience. They are often symbollic of an overarching theme or a message. Most album covers house portraits of the artist, others have either complex or simple images of something that has to do with the album's themes, and some of them are often a blank background with the album's title and artist's name alongside their record label.
 
 For this assignemnt, I arbitrarily chose album covers from [Discogs](https://www.discogs.com/search/?ev=em_rs)(1).
-*Discogs* is a online webpage that makes *vinyl* album covers easily accessable and available for free use to the public.
+*Discogs* is a online webpage that makes *vinyl* album covers easily accessable and available for free use to the public. Almost all of the images uplaoded are done so by normal people that own these vinyls. So, some of the images uploaded aren't as clear - they reflect light, show a shadow, or aren't framed properly. Nevertheless, the images analyzed through *Orange* are clear versions of the album covers with no obstructions to the scanning via the AI.
 
 ### 3.2 Process:
 The image clustering process starts out from the minute you think of the types of images you want to cluster or classify. You automatically create different classifications you predict to be made by the AI, *Orange* in this case, and then you might bias your judgment based on what you think should've been right and what actually came out to be true.
