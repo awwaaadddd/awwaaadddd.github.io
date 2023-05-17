@@ -20,7 +20,7 @@ For this blog entry (assignment #2), I personally want to understand the signifi
 Another idea I wish to better grasp after this analysis is that if corpora always contain related data sets or not. As mentioned above, I'll focus on Doyle's *"My Friend the Murderer"*, however, I will not shy away from comparing it to other parts of the corpus if anything interesting or suspicous captures my attention.
 
 ### 2.1 Why *My Friend the Murderer*?:
-I personally chose *My Friend the Murderer* by Arthur Conan Doyle because of its intriguing title. How can you befriend a murderer? I wanted to understand how such title can house specific themes that are prominent throughout an entire set of text. Understanding the pattern of words or context that gets brought up in a book, or any piece of text in generel, is quite important ot the theme and general plot/trend of ideas throughout the passage. In his book *In Praise of Pattern* Stephen Ramsay talks baout how using text analysis tools to understand the connection between "the computational strictures of text analysis and the open-ended interpretive landscape of literary studies" (Ramsay, 2005).
+I personally chose *My Friend the Murderer* by Arthur Conan Doyle because of its intriguing title. How can you befriend a murderer? I wanted to understand how such title can house specific themes that are prominent throughout an entire set of text. Understanding the pattern of words or context that gets brought up in a book, or any piece of text in generel, is quite important ot the theme and general plot/trend of ideas throughout the passage. In his book *In Praise of Pattern* Stephen Ramsay talks baout how using text analysis tools to understand the connection between "the computational strictures of text analysis and the open-ended interpretive landscape of literary studies" (Ramsay, 2005)(1).
 His appraoch to digital text analysis is that of a visual one. His endeavor of creating *StageGraph* as a tool for visualizing "dramatic structure", and the main idea behind his argument is that the usage of online visualization tools is valid in the run of analyzing texts. Connecting his work an dunderstanding the "Graph Theory" in the way it underlines computational location mechanisms with digital settings proves that text analysis can provide a pattern for thought and understanding.
 
 ## 3. *"My Friend the Murderer"* and Doyle:
@@ -38,6 +38,7 @@ The first set of tools that *Voyant Tools* handles are wordclouds, termsberries,
 ### 4.1 ***Presented below are the wordcloud, termsberries, and line graphs of *My Friend the Murderer* through *Voyant Tools*:***
 
 <img src="/assets/voyanttools1.png" style="zoom:50%"/>
+
 **Fig.1 *My Friend the Murderer* Word Cloud, Termsberries, and Line Graphs from Voyant Tools**
 
 All of these 3 initial visualizations of the text briefly showcase the general consistent composition of words used throughout the uploaded corpus.
@@ -56,15 +57,14 @@ The phrases tool under grid tools creates a table that organizes different phras
 This tool is useful when trying to identify the significance of any sentence throughout the entirety of the corpus' text.
 
 <img src="/assets/phrasestable.png" style="zoom:40%"/>
+
 **Fig.2 *My Friend the Murderer* Grid Tools - Phrases from Voyant Tools**
 
-### 4.4 
+### 4.4 Corpus/Visualization Tools - DreamScape:
 
-## 5. Comparision with Other Texts from the Corpus:
+## 5. Significances and Usages:
 
-## 6. Significances and Usages:
+## 6. Conclusions:
 
-## 7. Conclusions:
-
-## 8. Resources:
+## 7. Resources:
 
