@@ -72,10 +72,16 @@ Based on the produced map, we can tell that Florida (and possible closely surrou
 This allows us to tell that the story in hand is most likely taking place in Florida, perhaps with a couple of visits to Melbourne, and/or either locations being mentioned quite a lot without the characters being there.
 
 <img src="/assets/voyanttoolsmap.png" style="zoom:50%"/>
-
 **Fig.3 *My Friend the Murderer* Corpus Tools - DreamScape from Voyant Tools**
 
 ## 5. Significances and Usages:
+*The utilization of vizualization tools while analyzing text is extremely crucial for multiple reasons:*
+1. It draws attention to things you might've missed while reading or analyzing.
+2. It clearly showcases the links and connections between different statements (that link to possible themes) throughout the text.
+3. It clearly represents the consistency of words/phrases to showcase continous plots.
+4. It allows for a better understanding of the timeline when words are laid out on a graph to represent the times they've been mentioned and when they've been mentioned.
+
+Developing my own understanding of the visualization tools of text passages has essentially drawn my attention to basic text analysis. The visuals are a bonus. Understanding the basic trends of a given corpus is easier when they're paired together. 
 
 ## 6. Conclusions:
 
