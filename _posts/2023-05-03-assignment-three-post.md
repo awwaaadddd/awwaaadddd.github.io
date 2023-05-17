@@ -107,6 +107,21 @@ The y-axis of the matrix houses the actual categories based on manual classifica
 <img src="/assets/part2confusionmatrix.png" style="zoom:45%"/>
 **Fig. 3.1 Confusion Matrix of Weather Database from *Orange***.
 
+From the confusion matrix, two things are possible: accuracies and mistakes. The figures below somewhat depict both situations.
+
+<img src="/assets/actualsunnypredictedthunderstorm.png" style="zoom:35%"/>
+**Fig. 3.1.1 - Actual 'Sunny', but Predicted as 'Thunderstorm'**.
+
+The AI program of *Orange* incorrectly classified images depicted a 'Sunny' weather as that of a 'Thunderstorm'. The two images vary in color and contents. This first one is orange/brown and has trees, while the other one is blue/white with a sky and clouds.
+My only guess to how it misclassified these images as something opposite of their nature are the colors. It could've misinterpreted the lighter parts of the image as clouds and the darker bits as shadows of darker clouds depicting a thunderstorm.
+
+
+<img src="/assets/actualblizzardpredictedsnowy.png" style="zoom:35%"/>
+**Fig. 3.1.2 - Actual 'Blizzard', but Predicted as 'Snowy'**.
+
+Here, the AI program wasn't off at all. Although the images were manually classified under 'Blizzard' based on the search engine used, they were categorized as 'Snowy'. These generally mean the same thing, and the only difference would be the intensity of the snow during that specific weather.
+Again, my guess would be that of the colors and presence of other objects in the images too. The one on the left has a bench and the colors aren't dark enough to resemble that of a gloomy blizzard. The second image seems still with no movement at all in the snowed-in cars and trees.
+
 ## 5. Ethical Questions:
 
 ## 6. Reflection:
