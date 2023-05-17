@@ -86,4 +86,5 @@ Developing my own understanding of the visualization tools of text passages has 
 ## 6. Conclusions:
 
 ## 7. Resources:
-
+(1) Ramsay, S. (2005). In Praise of Pattern. https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1056&context=englishfacpubs
+(2)
