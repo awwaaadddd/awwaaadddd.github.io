@@ -20,7 +20,7 @@ Images are found everywhere. So, upon grasping the idea of how images can get ca
 - Security.
 - *Construction*.
 
-In a *Review of Image-Based Analysis and Applications in Construction*, Kareem Mostafa & Tarek Hegazy studied multiple papers and have conducted a survey that showcased that image-based analysis if greatly used in construction. Briefly, their research results showed that construction safety, progress monitoring, and damage assessment are the three most common trends across image-based analysis utilization in the construction industry. They further continue to mention that image-based analysis in construction can allude to the job being done or its intensity, with one example referring to a job that requires hardhats (Tarek & Hegazy, 2021)[1].
+In a *Review of Image-Based Analysis and Applications in Construction*, Kareem Mostafa & Tarek Hegazy studied multiple papers and have conducted a survey that showcased that image-based analysis if greatly used in construction. Briefly, their research results showed that construction safety, progress monitoring, and damage assessment are the three most common trends across image-based analysis utilization in the construction industry. They further continue to mention that image-based analysis in construction can allude to the job being done or its intensity, with one example referring to a job that requires hardhats (Tarek & Hegazy, 2021)(1).
 
 ### 1.1 *Orange*:
 Image-based analysis programs are programmed with specific intelligence that is able to recognize specific trends and characteristics across a set of images. One example of such programs would be *Orange*.
@@ -30,12 +30,17 @@ For this assignment, *Orange* will be used to analyze imported images and then v
 
 ## 2. Step 1 - Image Collection:
 The process of image collection and selection can either be very simple or tedious. Image selection is very simple when the images are chosen at an arbitrary rate; you randomly pick images without thinking of a specific characteristic to bse the organization processes (clustering & classification) on. However, when image selection is careful and precise, the process can be lengthy and then start to feel tedious.
+
 Nevertheless, when using image-based analysis programs, you should keep in mind that the AI program can segregate these images based on characteristics it itself picks up on, regardless of what you have in mind. The only thing you can do is verify those classifications or deny them.
 
+In this assignment, I'll be using **Music Album Covers** during image clustering in the first part, and I'll be using **Weather Conditions** as my characteristics for image classifications in the second part.
+
 ## 3 Step 2 - Image Clustering:
+This part of the assignment requires udnerstanding what image clustering is. Image clustering refers to embedding images together based on their vectoral descriptions. The organization of this data allows us to compare the images and compute their similarties.
 
 ### 3.1 Types of Images Used:
-
+For the image clustering segment of this assignment, I chose to go with music albums covers. I personally enjoy collecting vinyls and displaying them for, well, their music, and their visual covers.
+Understanding the cover of an album is part of undersatnding the music. The visuals tie in with the embedded themes of the music, and that further perpetuates the listening experience.
 ### 3.2 Process:
 
 ### 3.3 Usages:
