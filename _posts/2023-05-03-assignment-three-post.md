@@ -123,12 +123,21 @@ Here, the AI program wasn't off at all. Although the images were manually classi
 Again, my guess would be that of the colors and presence of other objects in the images too. The one on the left has a bench and the colors aren't dark enough to resemble that of a gloomy blizzard. The second image seems still with no movement at all in the snowed-in cars and trees.
 
 ## 5. Ethical Questions:
+The undergoing processes of image-based analysis have deemed themselves useful, however, they aren't all programmed the same way to depict similar results each time. Ethical issues may rise with the developed results in regard to the expected one.
 
-## 6. Reflection:
+Arnold & Tilton discuss the term "distant viewing" when trying to understand how data is given meaning, especially in a computational age. Their definition of "distant viewing" reflects to that of having to *view* the materials of a specific subject before fully studying it. By *view*, they mean analyze. You have
 
-## 7. Conclusion:
+*Some other ethical issues that may appear are:*
+- Are the images used legally sourced?
+- If people are in these images, do they consent to their images being used for research/analysis?
+- Race biases.
+- Privacy breaches.
+- Security support.
 
-## 8. Resources:
+## 6. Reflection & Conclusions:
+
+
+## 7. Resources:
 (1) Mostafa, K., & Hegazy, T. (2021). Review of image-based analysis and applications in construction. Automation in Construction, 122, 103516. https://doi.org/10.1016/j.autcon.2020.103516
 
 (2) Find Music on Discogs | Discogs. (n.d.). https://www.discogs.com/search/?ev=em_rs
