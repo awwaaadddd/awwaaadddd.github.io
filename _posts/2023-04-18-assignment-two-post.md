@@ -83,6 +83,8 @@ This allows us to tell that the story in hand is most likely taking place in Flo
 
 Developing my own understanding of the visualization tools of text passages has essentially drawn my attention to basic text analysis. The visuals are a bonus. Understanding the basic trends of a given corpus is easier when they're paired together. 
 
+
+The ideation that comes with text analysis tools almost always brings forward additional interest to the searched topic. Knowing more about it allows for broader research endeavors as well as technological advancements. A research/analysis of the Chinese search trends across social media platforms and websites (1950s - 2008) in comparision to that of the world which has showcased the drastic themes present in search trends basic on geographical location. The research focused on the usage of language in relation to location, and one of their main focuses was on the political search trends questioning why the "political communication" trends in Chinese rank lower than that of other languages, like English, Italian, French, Russian, and Spanish (Clark, et. al, 2022)(2).
 ## 6. Conclusions:
 
 ## 7. Resources:
