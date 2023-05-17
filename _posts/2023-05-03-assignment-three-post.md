@@ -88,7 +88,7 @@ The process of image classifications follows a similar flow/methodology of that 
 Here, I created a single folder that contained 10 other folders acting as categories. Each one of these 10 folders had 10 images inside acting as the data to be processed.
 
 ### 4.1 Types of Images Used:
-While searching for the images to include in my database, I knew I wanted to include images of different weathers, like rainy, gloomy, blizzard, sunny, thunderstorm, etc. I sourced my images from [Unsplash](https://unsplash.com/explore). *Unsplash* is a free-to-use webpage that allows easy access to images online.
+While searching for the images to include in my database, I knew I wanted to include images of different weathers, like rainy, gloomy, blizzard, sunny, thunderstorm, etc. I sourced my images from [Unsplash](https://unsplash.com/explore)(4). *Unsplash* is a free-to-use webpage that allows easy access to images online.
 For every single category I looked up on *Unsplash*, I downloaded the first 10 free images on the webside and embedded them into my database. So, the process wasn't arbitrary, however, I had no control over the first 10 *free* images to show up.
 
 ### 4.2 Process:
@@ -125,7 +125,7 @@ Again, my guess would be that of the colors and presence of other objects in the
 ## 5. Ethical Questions:
 The undergoing processes of image-based analysis have deemed themselves useful, however, they aren't all programmed the same way to depict similar results each time. Ethical issues may rise with the developed results in regard to the expected one.
 
-Arnold & Tilton discuss the term "distant viewing" when trying to understand how data is given meaning, especially in a computational age. Their definition of "distant viewing" reflects to that of having to *view* the materials of a specific subject before fully studying it. By *view*, they mean analyze. You have
+Arnold & Tilton discuss the term "distant viewing" when trying to understand how data is given meaning, especially in a computational age. Their definition of "distant viewing" reflects to that of having to *view* the materials of a specific subject before fully studying it (2019)(5). By *view*, they mean analyze. You have carefully disect every aspect of the image and give meaning to the image's aspects prior to attaching a theme/symbol to the image. Some given meaning to one aspect in one context may not work for the same aspect in another context. Arnold & Tilton describe the extraction of seperate segments and turning them into their own code system as the "the framework of distant viewing".
 
 *Some other ethical issues that may appear are:*
 - Are the images used legally sourced?
@@ -143,3 +143,7 @@ Arnold & Tilton discuss the term "distant viewing" when trying to understand how
 (2) Find Music on Discogs | Discogs. (n.d.). https://www.discogs.com/search/?ev=em_rs
 
 (3) Salvaggio, E. (2022, October 2). How to Read an AI Image. By Eryk Salvaggio. https://cyberneticforests.substack.com/p/how-to-read-an-ai-image
+
+(4) Unsplash. (n.d.). Explore Free Images, Wallpapers, & Backgrounds | Unsplash. Unsplash. https://unsplash.com/explore
+
+(5) Arnold, T. B., & Tilton, L. (2021). Withdrawn as Duplicate: Distant viewing: analyzing large visual corpora. Digital Scholarship in the Humanities, 36(2), e1. https://doi.org/10.1093/digitalsh/fqz013
