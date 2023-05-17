@@ -61,6 +61,14 @@ This tool is useful when trying to identify the significance of any sentence thr
 **Fig.2 *My Friend the Murderer* Grid Tools - Phrases from Voyant Tools**
 
 ### 4.4 Corpus/Visualization Tools - DreamScape:
+Below is showcased a map exported from *Voyant Tool*'s DreamScape visualization tool. This tool analyzes the enitre text and detects specific geographical locations, like cities and countries, and it connects them via a line based on the order they're mentioned in.
+The visual aspect of this tool is that it creates a transparent blue circle around the locations mentioned, and the circle's radius determines the times the location was mentioned. The bigger the circle, the more times it is mentioned.
+Based on the produced map, we can tell that Florida (and possible closely surrounding areas) are mentioned quite a lot, yet, althought mentioned, Melbourne isn't mentioned as much.
+This allows us to tell that the story in hand is most likely taking place in Florida, perhaps with a couple of visits to Melbourne, and/or either locations being mentioned quite a lot without the characters being there.
+
+<img src="/assets/voyanttoolsmap.png" style="zoom:50%"/>
+
+**Fig.3 *My Friend the Murderer* Corpus Tools - DreamScape from Voyant Tools**
 
 ## 5. Significances and Usages:
 
