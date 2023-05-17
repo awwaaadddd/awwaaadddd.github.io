@@ -50,9 +50,7 @@ All of these 3 initial visualizations of the text briefly showcase the general c
 
 3. **The line graph** (on the far right) is used to horizontaly establish the relative frequencies of words across the corpus. It also helps by clearly  showcasing the frequencies across the corpus's timeline, from the start of it to its end.
 
-### 4.2 Visualization Tools - Loom:
-
-### 4.3 Grid Tools - Phrases:
+### 4.2 Grid Tools - Phrases:
 The phrases tool under grid tools creates a table that organizes different phrases from the corpus that are repeated. It also counts the times each phrases was repeated and the number of words generally part of said phrase.
 This tool is useful when trying to identify the significance of any sentence throughout the entirety of the corpus' text.
 
@@ -60,7 +58,14 @@ This tool is useful when trying to identify the significance of any sentence thr
 
 **Fig.2 *My Friend the Murderer* Grid Tools - Phrases from Voyant Tools**
 
-### 4.4 Corpus/Visualization Tools - DreamScape:
+Based on the lower rows of the generated table, it is clear that most of them are based on the copyright issues mentioned either at the start or at the end of the book.
+This is prevalent throughout msot of the text tools present on *Voyant Tools*, howeever, when prepared in a table like this, it is evident that the phrasing and repitition of the copyrights to Project Gutenberg is mentioned quite a lot:
+- "the terms of the full **project**...".
+- "about the **project gutenberg**...".
+- "copies of **project gutenberg**...".
+- "the owner of **project gutenberg**...".
+
+### 4.3 Corpus/Visualization Tools - DreamScape:
 Below is showcased a map exported from *Voyant Tool*'s DreamScape visualization tool. This tool analyzes the enitre text and detects specific geographical locations, like cities and countries, and it connects them via a line based on the order they're mentioned in.
 The visual aspect of this tool is that it creates a transparent blue circle around the locations mentioned, and the circle's radius determines the times the location was mentioned. The bigger the circle, the more times it is mentioned.
 Based on the produced map, we can tell that Florida (and possible closely surrounding areas) are mentioned quite a lot, yet, althought mentioned, Melbourne isn't mentioned as much.
