@@ -40,8 +40,8 @@ In this assignment, I'll be using **Music Album Covers** during image clustering
 This part of the assignment requires udnerstanding what image clustering is. Image clustering refers to embedding images together based on their vectoral descriptions. The organization of this data allows us to compare the images and compute their similarties.
 
 ### 3.1 Types of Images Used:
-For the image clustering segment of this assignment, I chose to go with music albums covers. I personally enjoy collecting vinyls and displaying them for, well, their music, and their visual covers.
-Understanding the cover of an album is part of undersatnding the music. The visuals tie in with the embedded themes of the music, and that further perpetuates the listening experience.
+For the image clustering segment of this assignment, I chose to go with music albums covers. I personally enjoy collecting vinyls and displaying them for, well, their music, and their visual covers too.
+Understanding the cover of an album is part of understanding the music. The visuals tie in with the embedded themes of the music, and that further perpetuates the listening experience.
 
 ### 3.2 Process:
 
