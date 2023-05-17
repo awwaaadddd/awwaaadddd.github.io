@@ -43,7 +43,7 @@ This part of the assignment requires udnerstanding what image clustering is. Ima
 For the image clustering segment of this assignment, I chose to go with **music album covers**. I personally enjoy collecting vinyls and displaying them for, well, their music, and their visual covers too.
 Understanding the cover of an album is part of understanding the music. The visuals tie in with the embedded themes of the music, and that further perpetuates the listening experience. They are often symbollic of an overarching theme or a message. Most album covers house portraits of the artist, others have either complex or simple images of something that has to do with the album's themes, and some of them are often a blank background with the album's title and artist's name alongside their record label.
 
-For this assignemnt, I arbitrarily chose album covers from [Discogs](https://www.discogs.com/search/?ev=em_rs)(1).
+For this assignment, I arbitrarily chose album covers from [Discogs](https://www.discogs.com/search/?ev=em_rs)(1).
 *Discogs* is a online webpage that makes *vinyl* album covers easily accessable and available for free use to the public. Almost all of the images uplaoded are done so by normal people that own these vinyls. So, some of the images uploaded aren't as clear - they reflect light, show a shadow, or aren't framed properly. Nevertheless, the images analyzed through *Orange* are clear versions of the album covers with no obstructions to the scanning via the AI.
 
 ### 3.2 Process:
@@ -55,6 +55,7 @@ As mentioned above, I've decided to go with **music album covers**. As I chose t
 - Will it base it on the presence of a face?
 
 ### 3.2.1 *Orange* Tools Used:
+**Figure 1.0** below showcases the tools used on the *Orange* interface in order to input the images, process them, and classify them through data tables and visual clustering/branching hierarchical structures that show connections between the clustered images.
 <img src="/assets/part1process.png" style="zoom:50%"/>
 
 ### 3.2.2 
