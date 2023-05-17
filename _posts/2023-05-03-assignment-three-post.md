@@ -63,7 +63,7 @@ Nevertheless, I completely agree with his claim. Datasets are often based on rel
 
 <img src="/assets/part1process.png" style="zoom:35%"/>
 
-**Fig. 1** ...
+**Fig. 1 - Computation of Tools for 'Albums' Database on *Orange***.
 
 The image-based analysis done on the uploaded album covers follows basic *Orange* tools, like image viewer, image embedding, and data table. As their names suggest, these tools allow for image viewing, image processing, and the production of a data table, respectively. The process also uses other tools, like distances and hierarchical structures. The distance tools creates a distance matrix across a table for the images, and the hierarchical structures tool displays a dendogram of the assorted images. It shows clear conenctions between all the images, example in **Figure 2.0**.
 
@@ -94,6 +94,9 @@ For every single category I looked up on *Unsplash*, I downloaded the first 10 f
 ### 4.2 Process:
 Upon setting up the database, I then continued to upload the folders into *Orange* and utilize its simple tools to better understand how AI technology would classify the images I had picked. As I has seperated the images based on weather type prior to uploading them, I was eager to check if *Orange* got it right.
 
+<img src="/assets/part2process.png" style="zoom:35%"/>
+**Fig. 3.0 - Computation of Tools for 'Weather' Database on *Orange***.
+
 ### 4.2.1 Tools Used:
 The simple *Orange* tools, like import images, image viewer, and data table, were used to house the data and incorporate it within the other visualization tools. As for those, data tables and confusion matrices were used, and they were processed through analytical tools, like 'test and score' and logistic regression. This is to accurately calculate the accuracies and inaccuracies of the processes.
 
@@ -102,7 +105,7 @@ The confusion matrix tool is used to create a matrix that discusses all *confusi
 The y-axis of the matrix houses the actual categories based on manual classification of the database, and the x-axis showcases the predicted classifications done by the AI tools.
 
 <img src="/assets/part2confusionmatrix.png" style="zoom:45%"/>
-**Fig. 3. Confusion Matrix of Weather Database from *Orange***.
+**Fig. 3.1 Confusion Matrix of Weather Database from *Orange***.
 
 ## 5. Ethical Questions:
 
