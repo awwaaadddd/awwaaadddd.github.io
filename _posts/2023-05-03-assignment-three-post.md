@@ -56,7 +56,7 @@ As mentioned above, I've decided to go with **music album covers**. As I chose t
 
 ### 3.2.1 *Orange* Tools Used:
 **Figure 1.0** below showcases the tools used on the *Orange* interface in order to input the images, process them, and classify them through data tables and visual clustering/branching hierarchical structures that show connections between the clustered images.
-<img src="/assets/part1process.png" style="zoom:50%"/>
+<img src="/assets/part1process.png" style="zoom:35%"/>
 
 ### 3.2.2 
 ### 3.3 Usages:
