@@ -48,8 +48,8 @@ For this assignment, I arbitrarily chose album covers from [Discogs](https://www
 
 ### 3.2 Process:
 The image clustering process starts out from the minute you think of the types of images you want to cluster or classify. You automatically create different classifications you predict to be made by the AI, *Orange* in this case, and then you might bias your judgment based on what you think should've been right and what actually came out to be true.
-As mentioned above, I've decided to go with **music album covers**. As I chose the images randomly, I had no prior bias set on the types of characteristics I imaged would arise from the program; the only thing that had risen was my curiosity.
-- How will *Orange* classify these varying random images?
+As mentioned above, I've decided to go with **music album covers**. As I chose the 30 images randomly, I had no prior bias set on the types of characteristics I imaged would arise from the program; the only thing that had risen was my curiosity.
+==- How will *Orange* classify these varying random images?==
 - Will it follow their color schemes?
 - Will it follow their general layouts of the shapes and text?
 - Will it base it on the presence of a face?
@@ -58,7 +58,7 @@ As mentioned above, I've decided to go with **music album covers**. As I chose t
 **Figure 1.0** below showcases the tools used on the *Orange* interface in order to input the images, process them, and classify them through data tables and visual clustering/branching hierarchical structures that show connections between the clustered images.
 
 <img src="/assets/part1process.png" style="zoom:35%"/>
-
+**Fig. 1...**
 The image-based analysis done on the uploaded album covers follows basic *Orange* tools, like image viewer, image embedding, and data table. As their names suggest, these tools allow for image viewing, image processing, and the production of a data table, respectively. The process also uses other tools, like distances and hierarchical structures. The distance tools creates a distance matrix across a table for the images, and the hierarchical structures tool displays a dendogram of the assorted images. It shows clear conenctions between all the images, example in **Figure 2.0**.
 
 ### 3.2.2 Dendogram:
