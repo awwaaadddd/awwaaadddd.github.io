@@ -8,6 +8,7 @@ comments: true
 category: blog
 ---
 
+# Image-Based Analysis Using Visual Programs like *Orange*:
 ## 1. Introduction (What is Image-Based Analysis?):
 Image analysis is a special type of processing that utilizes pre-existing images to arrange and organize them based on specific characteristics that they may share with one another. Image analysis focuses on the main content of the image, and it then segregates them based on that. This allows for a better understanding of the images' content(s) and the themes they may share.
 Images are found everywhere. So, upon grasping the idea of how images can get categorized, one can develop a better understanding on how these images can be used in various alternating fields of work.
