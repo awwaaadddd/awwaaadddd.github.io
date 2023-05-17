@@ -82,6 +82,10 @@ The dendogram then continues to seperate the images into smaller clusters, yet m
 
 I personally think that this cluster formed due to the combination of the subjects' placements in the center of the image alongside the color schemes of them as well. The both house plenty of greens and blues in the background.
 
+**Figure 2.2** below showcases a second formed cluster down the line of the overarching cluster with 9 images. Althought they all are made up of totally different colors, they all host some sort of entity in the exact center of the image. That's probably the reason they all got clustered together. 6 of the images clearly depict faces, while the other 3 host other shapes and figure in the middle. They also all have some sort of border.
+<img src="/assets/cluster2.png" style="zoom:35%"/>
+**Fig 2.2 - Cluster 2 from *Orange***.
+
 ## 4. Step 3 - Image Classification:
 The process of image classifications follows a similar flow/methodology of that of image clustering. They both process images and segregate them based on similar characteristics, however, the image classification process involves prior segregation of the corpus' images. When setting up the database, you should have specific characteristics in mind hoping that the algorithm of the AI will follow through and produce you with the intended output.
 
@@ -135,7 +139,7 @@ Arnold & Tilton discuss the term "distant viewing" when trying to understand how
 - Security support.
 
 ## 6. Reflection & Conclusions:
-
+The processes of image-based analysis can allow us to organize huge bits of data (in image form) quickly and easily. The methodologies used are quite simple and accessable as well. *Orange* houses multiple tools that are easy to manage and understand during the process of image analysis. Different theories and research studies are focusing on the development of image-based analysis, like the framework of distant viewing and the creation of databases.
 
 ## 7. Resources:
 (1) Mostafa, K., & Hegazy, T. (2021). Review of image-based analysis and applications in construction. Automation in Construction, 122, 103516. https://doi.org/10.1016/j.autcon.2020.103516
