@@ -43,7 +43,7 @@ This part of the assignment requires udnerstanding what image clustering is. Ima
 For the image clustering segment of this assignment, I chose to go with **music album covers**. I personally enjoy collecting vinyls and displaying them for, well, their music, and their visual covers too.
 Understanding the cover of an album is part of understanding the music. The visuals tie in with the embedded themes of the music, and that further perpetuates the listening experience. They are often symbollic of an overarching theme or a message. Most album covers house portraits of the artist, others have either complex or simple images of something that has to do with the album's themes, and some of them are often a blank background with the album's title and artist's name alongside their record label.
 
-For this assignment, I arbitrarily chose album covers from [Discogs](https://www.discogs.com/search/?ev=em_rs)(1).
+For this assignment, I arbitrarily chose album covers from [Discogs](https://www.discogs.com/search/?ev=em_rs)(2).
 *Discogs* is a online webpage that makes *vinyl* album covers easily accessable and available for free use to the public. Almost all of the images uplaoded are done so by normal people that own these vinyls. So, some of the images uploaded aren't as clear - they reflect light, show a shadow, or aren't framed properly. Nevertheless, the images analyzed through *Orange* are clear versions of the album covers with no obstructions to the scanning via the AI.
 
 ### 3.2 Process:
@@ -59,8 +59,11 @@ As mentioned above, I've decided to go with **music album covers**. As I chose t
 
 <img src="/assets/part1process.png" style="zoom:35%"/>
 
+The image-based analysis done on the uploaded album covers follows basic *Orange* tools, like image viewer, image embedding, and data table. As their names suggest, these tools allow for image viewing, image processing, and the production of a data table, respectively. The process also uses other tools, like distances and hierarchical structures. The distance tools creates a distance matrix across a table for the images, and the hierarchical structures tool displays a dendogram of the assorted images. It shows clear conenctions between all the images, example in **Figure 2.0**.
 
-### 3.2.2 
+### 3.2.2 Dendogram:
+<img src="/assets/dendogram1.png" style="zoom:35%"/>
+
 ### 3.3 Usages:
 
 ## 4. Step 3 - Image Classification:
@@ -80,3 +83,8 @@ As mentioned above, I've decided to go with **music album covers**. As I chose t
 ## 7. Conclusion:
 
 ## 8. Resources:
+(1) Mostafa, K., & Hegazy, T. (2021). Review of image-based analysis and applications in construction. Automation in Construction, 122, 103516. https://doi.org/10.1016/j.autcon.2020.103516
+
+(2) Find Music on Discogs | Discogs. (n.d.). https://www.discogs.com/search/?ev=em_rs
+
+(3)
