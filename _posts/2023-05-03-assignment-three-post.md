@@ -48,8 +48,8 @@ For this assignment, I arbitrarily chose album covers from [Discogs](https://www
 
 ### 3.2 Process:
 The image clustering process starts out from the minute you think of the types of images you want to cluster or classify. You automatically create different classifications you predict to be made by the AI, *Orange* in this case, and then you might bias your judgment based on what you think should've been right and what actually came out to be true.
-As mentioned above, I've decided to go with **music album covers**. As I chose the 30 images randomly, I had no prior bias set on the types of characteristics I imaged would arise from the program; the only thing that had risen was my curiosity.
-==- How will *Orange* classify these varying random images?==
+==As mentioned above==, I've decided to go with **music album covers**. As I chose the 30 images randomly, I had no prior bias set on the types of characteristics I imaged would arise from the program; the only thing that had risen was my curiosity.
+- How will *Orange* classify these varying random images?
 - Will it follow their color schemes?
 - Will it follow their general layouts of the shapes and text?
 - Will it base it on the presence of a face?
