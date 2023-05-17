@@ -29,25 +29,24 @@ Image-based analysis programs are programmed with specific intelligence that is 
 For this assignment, *Orange* will be used to analyze imported images and then view their image-data through data tables. It will also be used to visually describe the images across hierarchical structures and categorized classifications.
 
 ## 2. Step 1 - Image Collection:
-The process of image collection and selection can either be very simple or tedious. Image selection is very simple when the images are chosen at an arbitrary rate; you randomly pick images.
-
-### 2.1 What Images I've Used for Assignment 3:
-
-## 2.2 Part One:
-
-## 2.3 Part Two:
+The process of image collection and selection can either be very simple or tedious. Image selection is very simple when the images are chosen at an arbitrary rate; you randomly pick images without thinking of a specific characteristic to bse the organization processes (clustering & classification) on. However, when image selection is careful and precise, the process can be lengthy and then start to feel tedious.
+Nevertheless, when using image-based analysis programs, you should keep in mind that the AI program can segregate these images based on characteristics it itself picks up on, regardless of what you have in mind. The only thing you can do is verify those classifications or deny them.
 
 ## 3 Step 2 - Image Clustering:
 
-### 3.1 Process:
+### 3.1 Types of Images Used:
 
-### 3.2 Usages:
+### 3.2 Process:
+
+### 3.3 Usages:
 
 ## 4. Step 3 - Image Classification:
 
-### 4.1 Process:
+### Types of Images Used:
 
-### 4.2 Usages:
+### 4.2 Process:
+
+### 4.3 Usages:
 
 ## 5. Ethical Issues:
 
