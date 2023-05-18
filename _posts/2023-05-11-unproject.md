@@ -19,7 +19,7 @@ category: presentation
 		<section>This project focuses on tackling incorrect social media captions and messages by forging together an AI system that detects inconsistent translations across social media platforms that communicate incoherent ideas due to inaccurate translations. The main idea it approaches is language, mainly the Emirati Arabic dialect.</section>
 	  </section>
 	  <section>
-		  <h3>Scope:</3>
+		  <h3>Scope:</h3>
 		<section>Lots of dialects are improperly documented online that their translation processes are almost always slightly off or based on the formal form of the detected language. Emirati Arabic is one of those prone to inaccurate translations, thus inaccurate interpretations.</section>
 		</section>
 		---
@@ -27,7 +27,6 @@ category: presentation
 		<section>Maintain consistent usage of Emirati Arabic in research purposes.
 		Allow researchers and social media users in general to understand Emirati Arabic and not shy away from it, especially during research or important announcements (especially those within communities).</section>
 		---
-		<section>
 		<h3>Data & Their Sources:</h3>
 		<section>Most data for this project is collected from social media accounts with captions/comments of different versions of Emirati Arabic. Other versions of this project will be fully developed to house translation processes of other languages and dialects (not necessarily of Arabic). Other forms of data include written narratives and poetry in Emirati Arabic. These sources are used to expand the database with a richer vocabulary.</section>
 	  </section>
@@ -38,7 +37,6 @@ category: presentation
 	  <section>
 		  <h3>Data & Their Sources:</h3>
 		<section>@almawrooth on Instagram – a page that aims to document inherent aspects of locations in the UAE by the people from an older time of today. Most of the contributions and explanations are in Emirati Arabic. This account brings forth a historical influence on the usage of certain words of Emirati Arabic.</section>
-		</section>
 		  </section>
 		---
 	  <section>
