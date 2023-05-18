@@ -49,15 +49,15 @@ category: presentation
 		  The pathways this project follows are rooted in the benefit of the public and future researchers in language and culture. It also encourages the iteration of dying morals and linguistic structures.
 		  This project builds on the coming together of a community to maintain its spoken language through the digital lens. It does so by compiling together a group of professional linguists.
 	  </section>
-		---
+	 ---
 	  <section>
 		<h3>Techniques:</h3>
 		Use text analysis techniques to further analyze proposed texts (and dialects) to better compose correct translation programs for Emirati Arabic. Online-based text analysis tools will be used to conduct a search query on the trends looked-up using Emirati Arabic languages. This will further expand the compiled datasets using public input.
 	  </section>
 	  <section>
 	  <h3>Workplan:</h3>
-		  test
-	  </section>
+This project is set in a way that it can develop and grow anywhere. It requires knowledgeable people that are specialists in language to make-up the team. They will create the database and proof its set-up with the aid of Emirati team members that will report accurate formations and inaccurate ones. Upon that, the program follows the database, detects the Emirati Arabic, and correctly translates it into English.
+	</section>
 	  ---
 	<section>
 		<h3>Aims:</h3>
@@ -66,7 +66,8 @@ category: presentation
 		---
 	<section>
 		<h3>Participation:</h3>
-		This project aims to contain ideas of the people in Jumeirah that showcase cultural diversity and availability through language.
+		This project aims to contain ideas of the people in Jumeirah that showcase cultural diversity and availability through language. It incorporates local thought and input through test runs of the database programs to check functionality and accuracy. It also is keen on recruiting Emirati youth as part of the team to develop a better understanding of the way the database is supposed to look like.
+		This project plans on collaborating with other initiative projects or social media accounts, like @goodbyeoldjumeirah to host workshops for the community and educate them on language and how they can help maintain it for generations.
 	</section>
   </textarea>
 </section>
