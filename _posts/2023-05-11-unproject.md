@@ -8,6 +8,7 @@ tags: [unproject]
 category: presentation
 ---
 <section data-markdown>
+	<link rel="stylesheet" href="dist/theme/black.css">
   <textarea data-template>
 	  <section>
 	    <h3>Creating an AI Program that Correctly Translates Captions using Text Analysis Tehcniques for Digital-Social Storytelling</h3>
@@ -45,12 +46,13 @@ category: presentation
 	  </section>
 	  <section>
 		<h3>Values:</h3>
-		test
+		  The pathways this project follows are rooted in the benefit of the public and future researchers in language and culture. It also encourages the iteration of dying morals and linguistic structures.
+		  This project builds on the coming together of a community to maintain its spoken language through the digital lens. It does so by compiling together a group of professional linguists.
 	  </section>
 		---
 	  <section>
 		<h3>Techniques:</h3>
-		Use text analysis techniques to further analyze proposed texts (and dialects) to better compose correct translation programs in
+		Use text analysis techniques to further analyze proposed texts (and dialects) to better compose correct translation programs for Emirati Arabic. Online-based text analysis tools will be used to conduct a search query on the trends looked-up using Emirati Arabic languages. This will further expand the compiled datasets using public input.
 	  </section>
 	  <section>
 	  <h3>Workplan:</h3>
