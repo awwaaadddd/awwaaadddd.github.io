@@ -50,6 +50,7 @@ category: presentation
 		  This project builds on the coming together of a community to maintain its spoken language through the digital lens. It does so by compiling together a group of professional linguists.
 	  </section>
 	 ---
+	<section>
 	  <section>
 		<h3>Techniques:</h3>
 		Use text analysis techniques to further analyze proposed texts (and dialects) to better compose correct translation programs for Emirati Arabic. Online-based text analysis tools will be used to conduct a search query on the trends looked-up using Emirati Arabic languages. This will further expand the compiled datasets using public input.
@@ -57,6 +58,7 @@ category: presentation
 	  <section>
 	  <h3>Workplan:</h3>
 This project is set in a way that it can develop and grow anywhere. It requires knowledgeable people that are specialists in language to make-up the team. They will create the database and proof its set-up with the aid of Emirati team members that will report accurate formations and inaccurate ones. Upon that, the program follows the database, detects the Emirati Arabic, and correctly translates it into English.
+	</section>
 	</section>
 	  ---
 	<section>
